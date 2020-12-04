@@ -1,0 +1,14 @@
+{
+  "name": "dailymotivationalquote",
+  "version": "1.0.0",
+  "description": "Electron app that displays daily motivational quotes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakaria Karlsen Tawfiq",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.0.3"
+  }
+}
