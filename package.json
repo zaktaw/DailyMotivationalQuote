@@ -9,6 +9,7 @@
   "author": "Zakaria Karlsen Tawfiq",
   "license": "ISC",
   "dependencies": {
-    "electron": "^11.0.3"
+    "electron": "^11.0.3",
+    "jquery": "^3.5.1"
   }
 }

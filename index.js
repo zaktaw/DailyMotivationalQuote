@@ -1,6 +1,8 @@
 const electron = require('electron');
 const url = require('url');
 const path = require('path');
+const fs = require("fs"); 
+//const readline = require('readline-sync'); 
 
 const {app, BrowserWindow, Menu, ipcMain} = electron;
 
@@ -8,7 +10,6 @@ const {app, BrowserWindow, Menu, ipcMain} = electron;
 //process.env.NODE_ENV = 'production';
 
 let mainWindow;
-let addWindow;
 
 // Listen for app to be ready
 app.on('ready', () => {
