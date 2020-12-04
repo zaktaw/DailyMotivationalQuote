@@ -4,7 +4,7 @@
   "description": "Electron app that displays daily motivational quotes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "Zakaria Karlsen Tawfiq",
   "license": "ISC",
