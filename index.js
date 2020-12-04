@@ -1,8 +1,6 @@
 const electron = require('electron');
 const url = require('url');
 const path = require('path');
-const fs = require("fs"); 
-//const readline = require('readline-sync'); 
 
 const {app, BrowserWindow, Menu, ipcMain} = electron;
 
