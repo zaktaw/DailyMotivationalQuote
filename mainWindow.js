@@ -2,9 +2,14 @@ const fs = require("fs");
 const utility = require('./utility')
 
 $(function() {
- 
-    // Only show daily quote if it has not been shown today
-    if (!dailyQuoteShown()) showQuote();
+
+    dailyQuoteShown(); // check if daily quote has been shown
+
+    // get quotes from text file
+    let quotes = fs.readFileSync('quotesShuffled.txt', 'utf8');
+    quotes = quotes.split("\n");
+
+    showQuote(); // show daily quote
 
     /**
      * Shows a random quote.
@@ -12,13 +17,17 @@ $(function() {
      * Generates a random number to pick a random line from the text-file
      */
     function showQuote() {
-        fs.readFile('quotes.txt', 'utf8', function(err, data) {
-            data = data.split("\n");
-            const randNum = utility.genRandNum(0, data.length-1);
-            $('#pQuote').text(data[randNum]); // show a random quote
-        });
+        // get quoteHandler JSON
+        let quoteHandler = fs.readFileSync('quoteHandler.json');
+        quoteHandler = JSON.parse(quoteHandler);
+      
+        $('#pQuote').text(quotes[quoteHandler.quoteIterator]); // show quote
 
-        //update handler.txt
+        // update the date the last quote has been shown in JSON-file
+        let today = new Date().getDate();
+        quoteHandler.quoteShownOnDate = today;
+        quoteHandler = JSON.stringify(quoteHandler);
+        fs.writeFileSync('quoteHandler.json', quoteHandler);
     }
 
     /**
@@ -28,9 +37,16 @@ $(function() {
      * Returns true if these dates are the same.
      */
     function dailyQuoteShown() {
+         // get quoteHandler JSON
+        let quoteHandler = fs.readFileSync('quoteHandler.json');
+        quoteHandler = JSON.parse(quoteHandler);
+
+        // increment iterator if there is a new date and update iterator in JSON-file
         let today = new Date().getDate();
-        let quoteShownOnDate = fs.readFileSync('quoteShownOnDate.txt', 'utf8');
-        if (quoteShownOnDate==today) return true;
-        else return false;
+        if (quoteHandler.quoteShownOnDate != today) {
+            quoteHandler.quoteIterator += 1;
+            quoteHandler = JSON.stringify(quoteHandler);
+            fs.writeFileSync('quoteHandler.json', quoteHandler);
+        }
     }
 });
