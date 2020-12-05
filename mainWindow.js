@@ -2,11 +2,11 @@ const fs = require("fs");
 
 $(function() {
 
-    dailyQuoteShown(); // check if daily quote has been shown
-
     // get quotes from text file
     let quotes = fs.readFileSync('quotes.txt', 'utf8');
     quotes = quotes.split("\n");
+
+    dailyQuoteShown(); // check if daily quote has been shown
 
     showQuote(); // show daily quote
 
@@ -23,7 +23,7 @@ $(function() {
         $('#pQuote').text(quotes[quoteHandler.quoteIterator]); // show quote
 
         // update the date the last quote has been shown in JSON-file
-        let today = new Date().getDate();
+        let today = new Date().getMinutes();
         quoteHandler.quoteShownOnDate = today;
         quoteHandler = JSON.stringify(quoteHandler);
         fs.writeFileSync('quoteHandler.json', quoteHandler);
@@ -41,12 +41,19 @@ $(function() {
         quoteHandler = JSON.parse(quoteHandler);
 
         // increment iterator if there is a new date and update iterator in JSON-file
-        let today = new Date().getDate();
+        let today = new Date().getMinutes();
+        console.log(today);
         if (quoteHandler.quoteShownOnDate != today) {
             quoteHandler.quoteIterator += 1;
 
+            console.log("i: " + quoteHandler.quoteIterator);
+            console.log("l: " + quotes.length);
+
+            console.log(quotes);
+
             // set iterator to 0
-            if (quoteIterator == quotes.length) {
+            if (quoteHandler.quoteIterator == quotes.length) {
+                console.log("hei");
                 quoteHandler.quoteIterator = 0;
                 shuffleQuotes();
             }
@@ -63,7 +70,8 @@ $(function() {
         quotes = shuffle(quotes);
         quotesString = "";
         for (let i=0; i<quotes.length; i++) {
-            quotesString += quotes[i] + "\n";
+            quotesString += quotes[i];
+            if (i < quotes.length-1) quotesString += "\n";
         }
         fs.writeFileSync('quotes.txt', quotesString, 'utf8');
     }
