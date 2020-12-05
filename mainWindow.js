@@ -1,12 +1,11 @@
 const fs = require("fs"); 
-const utility = require('./utility')
 
 $(function() {
 
     dailyQuoteShown(); // check if daily quote has been shown
 
     // get quotes from text file
-    let quotes = fs.readFileSync('quotesShuffled.txt', 'utf8');
+    let quotes = fs.readFileSync('quotes.txt', 'utf8');
     quotes = quotes.split("\n");
 
     showQuote(); // show daily quote
@@ -45,8 +44,39 @@ $(function() {
         let today = new Date().getDate();
         if (quoteHandler.quoteShownOnDate != today) {
             quoteHandler.quoteIterator += 1;
+
+            // set iterator to 0
+            if (quoteIterator == quotes.length) {
+                quoteHandler.quoteIterator = 0;
+                shuffleQuotes();
+            }
+
             quoteHandler = JSON.stringify(quoteHandler);
             fs.writeFileSync('quoteHandler.json', quoteHandler);
         }
+    }
+
+    /**
+     * Shuffles the quotes and updates quotes txt-file.
+     */
+    function shuffleQuotes() {
+        quotes = shuffle(quotes);
+        quotesString = "";
+        for (let i=0; i<quotes.length; i++) {
+            quotesString += quotes[i] + "\n";
+        }
+        fs.writeFileSync('quotes.txt', quotesString, 'utf8');
+    }
+
+    /**
+     * Shuffles array in place. ES6 version
+     * @param {Array} a items An array containing the items.
+     */
+    function shuffle(a) {
+        for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
     }
 });
