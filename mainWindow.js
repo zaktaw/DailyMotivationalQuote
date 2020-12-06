@@ -23,8 +23,8 @@ $(function() {
          // show quote
         let quote = quotes[quoteHandler.quoteIterator];
         quote = JSON.parse(quote);
-        $('#divQuote').html(quote.quote);
-        $('#divAuthor').html(quote.author);
+        $('#quote').html(quote.quote);
+        $('#author').html(quote.author);
 
         // update the date the last quote has been shown in JSON-file
         let today = new Date().getMinutes();
