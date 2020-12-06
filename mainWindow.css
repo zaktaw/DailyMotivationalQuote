@@ -1,3 +1,12 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    margin-top: 5px;
+    font-style: italic;
+}
+
 blockquote{
     border-left:none
 }
@@ -9,7 +18,7 @@ blockquote{
     padding-top: -100px;
     padding-left: 20px;
     border-radius: 17px;
-    background-color: #4ADFCC;
+    background-color: orange;
     margin-top: 25px;
     color:white;
     width: 325px;
