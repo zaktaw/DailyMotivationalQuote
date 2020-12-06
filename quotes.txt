@@ -1,2 +1,1000 @@
-B
-A
+{"quote": "Carpe Diem.", "author": "Latin"}
+{"quote": "Just Do it !", "author": "Nike"}
+{"quote": "Be Here Now.", "author": "Ram Dass"}
+{"quote": "Time is money.", "author": "Benjamin Franklin"}
+{"quote": "No pain, No gain.", "author": "Anonymous"}
+{"quote": "Be all you can be.", "author": "US Army"}
+{"quote": "Live with passion.", "author": "Anthony Robbins"}
+{"quote": "Live what you love.", "author": "Jo Deurbrouck"}
+{"quote": "Touch has a memory.", "author": "John Keats"}
+{"quote": "Reach for the stars.", "author": "Anonymous"}
+{"quote": "To dance is to live!", "author": "Charles M. Schulz"}
+{"quote": "All you need is love.", "author": "John Lennon"}
+{"quote": "This too, shall pass.", "author": "An Advisor to King Solomon"}
+{"quote": "Anything Is Possible.", "author": "Anonymous"}
+{"quote": "Count Your Blessings.", "author": "Og Mandino"}
+{"quote": "Will will find a way.", "author": "Anonymous"}
+{"quote": "Compassion is a verb.", "author": "Thich Nhat Hanh"}
+{"quote": "Shift your awareness.", "author": "Rhonda Byrne"}
+{"quote": "Roll with the punches.", "author": "Anonymous"}
+{"quote": "Every dog has his day.", "author": "Proverb"}
+{"quote": "Failure is impossible.", "author": "Susan B. Anthony"}
+{"quote": "Dare to be remarkable.", "author": "Jane Gentry"}
+{"quote": "Hope is a waking dream.", "author": "Aristotle"}
+{"quote": "Attitude is everything.", "author": "Anonymous"}
+{"quote": "This, too, shall pass.", "author": "William Shakespeare"}
+{"quote": "Paradise is where I am.", "author": "Voltaire"}
+{"quote": "I think, therefore I am.", "author": "Rene Descartes"}
+{"quote": "Fortune favors the brave.", "author": "Virgil"}
+{"quote": "A jug fills drop by drop.", "author": "Buddha"}
+{"quote": "Solitude is independence.", "author": "Hermann Hesse"}
+{"quote": "Independence is happiness.", "author": "Susan B. Anthony"}
+{"quote": "Peace begins with a smile.", "author": "Mother Teresa"}
+{"quote": "Take your dreams seriously.", "author": "Anonymous"}
+{"quote": "Begin with the end in mind.", "author": "Stephen Covey"}
+{"quote": "If you fall, I’ll be there.", "author": "Floor"}
+{"quote": "Money often costs too much.", "author": "Ralph Waldo Emerson"}
+{"quote": "The best vision is insight.", "author": "Malcolm Forbes"}
+{"quote": "From caring comes courage.", "author": "Lao Tzu"}
+{"quote": "Improvement begins with I.", "author": "Arnold H. Glasgow"}
+{"quote": "Be curious, not judgmental.", "author": "Walt Whitman"}
+{"quote": "Go with the best you’ve got.", "author": "Al Lopez"}
+{"quote": "Imagination rules the world.", "author": "Napoleon Bonaparte"}
+{"quote": "I can. I will. End of story.", "author": "Anonymous"}
+{"quote": "Philosophy begins in wonder.", "author": "Plato"}
+{"quote": "It’s important to feel good.", "author": "Rhonda Byrne"}
+{"quote": "Every path serves a purpose.", "author": "Gene Oliver"}
+{"quote": "ence is the mother of truth.", "author": "Benjamin Disraeli"}
+{"quote": "Never cut what you can untie.", "author": "Joseph Joubert"}
+{"quote": "It ain’t over till it’s over.", "author": "Yogi Berra"}
+{"quote": "Turn your wounds into wisdom.", "author": "Oprah Winfrey"}
+{"quote": "Strike while the iron is hot.", "author": "Proverb"}
+{"quote": "Dance on the edge of mystery.", "author": "Alan Cohen"}
+{"quote": "The map is not the territory.", "author": "Alfred Korzbyski"}
+{"quote": "Leap and the net will appear.", "author": "Julia Cameron"}
+{"quote": "We must cultivate our garden.", "author": "Voltaire"}
+{"quote": "There’s a Genius in all of us.", "author": "Albert Einstein"}
+{"quote": "Your vibe attracts your tribe.", "author": "Anonymous"}
+{"quote": "Limits exist only in the mind.", "author": "Anonymous"}
+{"quote": "Don’t forget to love yourself.", "author": "Anonymous"}
+{"quote": "Where’s your will to be weird?", "author": "Jim Morrison"}
+{"quote": "You are the colors you choose.", "author": "Vicky Wall"}
+{"quote": "Common sense is not so common.", "author": "Voltaire"}
+{"quote": "We of the craft are all crazy.", "author": "Lord Byron"}
+{"quote": "The Secret: Law of Attraction.", "author": "Rhonda Byrne"}
+{"quote": "Make each day your masterpiece.", "author": "John Wooden"}
+{"quote": "A joke is a very serious thing.", "author": "Winston Churchill"}
+{"quote": "You know my name, not my story.", "author": "Anonymous"}
+{"quote": "Ability is a poor man’s wealth.", "author": "John Wooden"}
+{"quote": "Pain pushes until vision pulls.", "author": "Michael Beckwith"}
+{"quote": "Children spell love… T-I-M-E.", "author": "Anthony P. Witham"}
+{"quote": "By letting go it all gets done.", "author": "Lao Tzu"}
+{"quote": "Don’t find fault, find a remedy.", "author": "Henry Ford"}
+{"quote": "Courage is grace under pressure.", "author": "Ernest Hemingway"}
+{"quote": "In the end, everything is a gag.", "author": "Charlie Chaplin"}
+{"quote": "Every cloud has a silver lining.", "author": "Proverb"}
+{"quote": "Forget the ones that forget you.", "author": "Anonymous"}
+{"quote": "Time is clay. Go make something.", "author": "Barbara Bach"}
+{"quote": "Dancing is the body made poetic.", "author": "Ernst Bacon"}
+{"quote": "The body says what words cannot.", "author": "Martha Graham"}
+{"quote": "To me faith means not worrying.", "author": "John Dewey"}
+{"quote": "Feel the fear and do it anyway.", "author": "Susan Jeffers"}
+{"quote": "I restore myself when I’m alone.", "author": "Marilyn Monroe"}
+{"quote": "Survival has its own etiquette.", "author": "Janet Morris"}
+{"quote": "No legacy is so rich as honesty.", "author": "William Shakespeare"}
+{"quote": "Learning never exhausts the mind.", "author": "Leonardo da Vinci"}
+{"quote": "Be bold or italic, never regular.", "author": "Anonymous"}
+{"quote": "There’s always a reason to smile.", "author": "Anonymous"}
+{"quote": "A laugh is a smile that bursts.", "author": "Mary H. Waldrip"}
+{"quote": "Never assume the obvious is true.", "author": "William Safire"}
+{"quote": "If you don’t ask, you don’t get.", "author": "Mahatma Gandhi"}
+{"quote": "Things do not change, we change.", "author": "Henry David Thoreau"}
+{"quote": "Friends are the sunshine of life.", "author": "John Hay"}
+{"quote": "The soul is here for its own joy.", "author": "Rumi"}
+{"quote": "He is able who thinks he is able.", "author": "Buddha"}
+{"quote": "Not all those who wander are lost.", "author": "J. R. R. Tolkien"}
+{"quote": "Every moment is a fresh beginning.", "author": "T.S. Eliot"}
+{"quote": "Success comes in cans, not cant’s.", "author": "Anonymous"}
+{"quote": "Not all those who wonder are lost.", "author": "Anonymous"}
+{"quote": "Lead follow or get out of the way!", "author": "Thomas Paine"}
+{"quote": "A goal is a dream with a deadline.", "author": "Napoleon Hill"}
+{"quote": "Every artist was first an amateur.", "author": "Ralph Waldo Emerson"}
+{"quote": "Common sense is as rare as genius.", "author": "Ralph Waldo Emerson"}
+{"quote": "Never take counsel of your fears.", "author": "Andrew Jackson"}
+{"quote": "Wonder is the beginning of wisdom.", "author": "Socrates"}
+{"quote": "Your thoughts cause your feelings.", "author": "Rhonda Byrne"}
+{"quote": "VISUALIZE!!! Rehearse your future.", "author": "Rhonda Byrne"}
+{"quote": "Freedom is the oxygen of the soul.", "author": "Moshe Dayan"}
+{"quote": "To read is to voyage through time.", "author": "Carl Sagan"}
+{"quote": "The only journey is the one within.", "author": "Rainer Maria Rilke"}
+{"quote": "The best way out is always through.", "author": "Robert Frost"}
+{"quote": "Everything you can imagine is real.", "author": "Pablo Picasso"}
+{"quote": "Do what is right, not what is easy.", "author": "Anonymous"}
+{"quote": "Curiosity is the key to creativity.", "author": "Akio Morita"}
+{"quote": "Change always comes bearing gifts.", "author": "Price Pritchett"}
+{"quote": "The more I wonder, the more I love.", "author": "Alice Walker"}
+{"quote": "Life is nothing without friendship.", "author": "Cicero"}
+{"quote": "In my friend, I find a second self.", "author": "Isabel Norton"}
+{"quote": "Happiness is only real when shared.", "author": "Jon Krakauer"}
+{"quote": "Don’t just do something, sit there.", "author": "Zen Proverb"}
+{"quote": "Stars can’t shine without darkness.", "author": "Anonymous"}
+{"quote": "The best revenge is massive success.", "author": "Frank Sinatra"}
+{"quote": "Knowledge comes, but wisdom lingers.", "author": "Lord Tennyson"}
+{"quote": "Aspire to inspire before you expire.", "author": "Anonymous"}
+{"quote": "It is not peace we seek but meaning.", "author": "Lawrence Durrell"}
+{"quote": "Life is the sum of all your choices.", "author": "Albert Camus"}
+{"quote": "Quiet people have the loudest minds.", "author": "Stephen Hawking"}
+{"quote": "They remember to do it all the time.", "author": "Rhonda Byrne"}
+{"quote": "A nickel ain’t worth a dime anymore.", "author": "Yogi Berra"}
+{"quote": "Allow nature to teach you stillness.", "author": "Eckhart Tolle"}
+{"quote": "Traveling is the death of ignorance.", "author": "Mark Twain"}
+{"quote": "I am not a teacher, but an awakener.", "author": "Robert Frost"}
+{"quote": "You can only lose what you cling to.", "author": "Buddha"}
+{"quote": "If you cannot be a poet, be the poem.", "author": "David Carradine"}
+{"quote": "All glory comes from daring to begin.", "author": "Eugene F. Ware"}
+{"quote": "It is better to play than do nothing.", "author": "Confucius"}
+{"quote": "Beware the barrenness of a busy life.", "author": "Socrates"}
+{"quote": "You are somebody’s reason to smile.", "author": "Chinese Proverb"}
+{"quote": "Knowledge speaks, but wisdom listens.", "author": "Jimi Hendrix"}
+{"quote": "Creativity is contagious. Pass it on.", "author": "Albert Einstein"}
+{"quote": "Creativity challenges the status quo.", "author": "Ruth Richards"}
+{"quote": "Touch is the meaning of being human.", "author": "Andrea Dworkin"}
+{"quote": "You must change in order to survive.", "author": "Pearl Bailey"}
+{"quote": "All things change, but nothing dies.", "author": "Ovid"}
+{"quote": "Every change starts in a small step.", "author": "Ron Stolero"}
+{"quote": "Friendship is one mind in two bodies.", "author": "Mencius"}
+{"quote": "A fool wonders, the wise man wanders.", "author": "Susan Rea"}
+{"quote": "I’m okay, you’re okay-in small doses.", "author": "Jonathan Rauch"}
+{"quote": "Real action is in the silent moments.", "author": "Ralph Waldo Emerson"}
+{"quote": "Whatever satisfies the soul is truth.", "author": "Walt Whitman"}
+{"quote": "The soul is awakened through service.", "author": "Erica Jong"}
+{"quote": "The greatest revelation is stillness.", "author": "Laozi"}
+{"quote": "Creativity is intelligence having fun.", "author": "Albert Einstein"}
+{"quote": "In teaching others we teach ourselves.", "author": "Proverb"}
+{"quote": "Don’t call it a dream. Call it a plan.", "author": "Anonymous"}
+{"quote": "Where there is a will, there is a way.", "author": "Anonymous"}
+{"quote": "We born to be true, not to be perfect.", "author": "Anonymous"}
+{"quote": "Every smile makes you a day younger.", "author": "Chinese Proverb"}
+{"quote": "I am wealth. I am abundance. I am joy.", "author": "David Cameron Gikandi"}
+{"quote": "Be a rainbow in someone else’s cloud.", "author": "Maya Angelou"}
+{"quote": "Death ends a life, not a relationship.", "author": "Mitch Albom"}
+{"quote": "What I do best is share my enthusiasm.", "author": "Bill Gates"}
+{"quote": "Courage is knowing what not to fear.", "author": "Plato"}
+{"quote": "We make war that we may live in peace.", "author": "Aristotle"}
+{"quote": "Silence is a source of Great Strength.", "author": "Lao Tzu"}
+{"quote": "In a mad world, only the mad are sane.", "author": "Akiro Kurosawa"}
+{"quote": "Doubt everything. Find your own light.", "author": "Buddha"}
+{"quote": "If things go wrong, don’t go with them.", "author": "Roger Babson"}
+{"quote": "Sometimes you win, sometimes you learn.", "author": "John Maxwell"}
+{"quote": "Tears are the silent language of grief.", "author": "Voltaire"}
+{"quote": "If it doesn’t open, it’s not your door.", "author": "Anonymous"}
+{"quote": "Success is a journey not a destination.", "author": "Ben Sweetland"}
+{"quote": "Creativity is an act of self-discovery.", "author": "Sebastian Esteverena"}
+{"quote": "Action makes more fortune than caution.", "author": "Luc De Clapiers"}
+{"quote": "I am not afraid…I was born to do this.", "author": "Joan of Ark"}
+{"quote": "Happiness can exist only in acceptance.", "author": "George Orwell"}
+{"quote": "It is tact that is golden, not silence.", "author": "Samuel Butler"}
+{"quote": "I am not strange, I am just not normal.", "author": "Salvador Dali"}
+{"quote": "The only journey is the journey within.", "author": "Rainer Maria Rilke"}
+{"quote": "Garden as though you will live forever.", "author": "William Kent"}
+{"quote": "Love has no age, no limit; and no death.", "author": "John Galsworthy"}
+{"quote": "If you can’t outplay them, outwork them.", "author": "Ben Hogan"}
+{"quote": "Seize the day, put no trust in tomorrow.", "author": "Horace"}
+{"quote": "Eighty percent of success is showing up.", "author": "Woody Allen"}
+{"quote": "You can do anything, but not everything.", "author": "David Allen"}
+{"quote": "Don’t let anyone ever dull your sparkle.", "author": "Anonymous"}
+{"quote": "Be yourself don’t live a photocopy life.", "author": "Anonymous"}
+{"quote": "All people smile in the same language.", "author": "Proverb"}
+{"quote": "Silence & smile are two powerful tools", "author": "BBC"}
+{"quote": "We need much less than we think we need.", "author": "Maya Angelou"}
+{"quote": "Unity is strength, division is weakness.", "author": "Swahili Proverb"}
+{"quote": "Ignorance is not bliss", "author": "it is oblivion. – Philip Wylie"}
+{"quote": "I intend to live forever, or die trying.", "author": "Groucho Marx"}
+{"quote": "In order to win, you must expect to win.", "author": "Richard Bach"}
+{"quote": "Growth itself has the germ of happiness.", "author": "Pearl S. Buck"}
+{"quote": "No medicine cures what happiness cannot.", "author": "Gabriel Garcí­a Márquez"}
+{"quote": "All that spirits desire, spirits attain.", "author": "Khalil Gibran"}
+{"quote": "Grow old with me! The best is yet to be.", "author": "Robert Browning"}
+{"quote": "Love all, trust a few, do wrong to none.", "author": "William Shakespeare"}
+{"quote": "Serendipity always rewards the prepared.", "author": "Katori Hall"}
+{"quote": "There is nothing permanent except change.", "author": "Heraclitus"}
+{"quote": "Believe you can and you’re halfway there.", "author": "Theodore Roosevelt"}
+{"quote": "The best dreams happen when you’re awake.", "author": "Cherie Gilderbloom"}
+{"quote": "Life doesn’t come easy. Play hard to get.", "author": "Anonymous"}
+{"quote": "Don’t tell poeple your dreams. Show them.", "author": "Anonymous"}
+{"quote": "Be yourself, but always your better self.", "author": "Karl G. Maeser"}
+{"quote": "If you’re going through hell, keep going.", "author": "Winston Churchill"}
+{"quote": "Success comes in cans; failure in can’ts.", "author": "Anonymous"}
+{"quote": "Each moment is a place you’ve never been.", "author": "Mark Strand"}
+{"quote": "Anxiety is the hand maiden of creativity.", "author": "T.S. Eliot"}
+{"quote": "Dance is the hidden language of the soul.", "author": "Martha Graham"}
+{"quote": "Life is the dancer and you are the dance.", "author": "Eckhart Tolle"}
+{"quote": "Live your vision and demand your success.", "author": "Steve Maraboli"}
+{"quote": "A visionary thrives under all conditions.", "author": "Abraham-Hicks"}
+{"quote": "Love is, above all, the gift of oneself.", "author": "Jean Anouilh"}
+{"quote": "Expectation is the root of all heartache.", "author": "William Shakespeare"}
+{"quote": "No man is a failure who is enjoying life.", "author": "William Feather"}
+{"quote": "We invent what we love and what we fear.", "author": "John Irving"}
+{"quote": "Don’t go through life. Grow through life.", "author": "Eric Butterworth"}
+{"quote": "It’s not your job to like me", "author": "it’s mine. – Byron Katie"}
+{"quote": "The future you see is the future you get.", "author": "Robert G. Allen"}
+{"quote": "To know and not to do is not yet to know.", "author": "Lau Tzu"}
+{"quote": "In a gentle way, you can shake the world.", "author": "Mahatma Gandhi"}
+{"quote": "Let silence take you to the core of life.", "author": "Rumi"}
+{"quote": "Forget injuries, never forget kindnesses.", "author": "Confucius"}
+{"quote": "We acquire the strength we have overcome.", "author": "Ralph Waldo Emerson"}
+{"quote": "Float like a butterfly, sting like a bee.", "author": "Muhammad Ali"}
+{"quote": "Don’t count the days, make the days count.", "author": "Muhammad Ali"}
+{"quote": "It wasn’t raining when Noah built the ark.", "author": "Howard Ruff"}
+{"quote": "When the sun rises; it rises for everyone.", "author": "Cuban Proverb"}
+{"quote": "Grief does not change you. It reveals you.", "author": "John Green"}
+{"quote": "Don’t regret the past, just learn from it.", "author": "Ben Ipock"}
+{"quote": "Life is trying things to see if they work.", "author": "Ray Bradbury"}
+{"quote": "The only thing constant in life is change.", "author": "Francois De La Rochefoucauld"}
+{"quote": "Winners never quit and quitters never win.", "author": "Vince Lombardi"}
+{"quote": "Take what you have and make what you want.", "author": "Hilda Charlton"}
+{"quote": "The bliss even of a moment still is bliss.", "author": "Joanna Baillie"}
+{"quote": "Accept your genius and say what you think.", "author": "Ralph Waldo Emerson"}
+{"quote": "What is now proved was once only imagined.", "author": "William Blake"}
+{"quote": "Everyone shines, given the right lighting.", "author": "Susan Cain"}
+{"quote": "You can have, do, or be anything you want.", "author": "Joe Vitale"}
+{"quote": "I intend to live forever. So far, so good.", "author": "Steven Wright"}
+{"quote": "The soul is healed by being with children.", "author": "Fyodar Dostoyevsky"}
+{"quote": "The ancestor of every action is a thought.", "author": "Ralph Waldo Emerson"}
+{"quote": "Self-trust is the first secret of success.", "author": "Ralph Waldo Emerson"}
+{"quote": "I can is 100 times more important than IQ.", "author": "Anonymous"}
+{"quote": "Sadness is but a wall between two gardens.", "author": "Khalil Gibran"}
+{"quote": "If opportunity doesn’t knock, build a door.", "author": "Milton Berle"}
+{"quote": "The power of imagination makes us infinite.", "author": "John Muir"}
+{"quote": "Do what you love and the money will follow.", "author": "Marsha Sinetar"}
+{"quote": "Genius is 1% inspiration, 99% perspiration.", "author": "Thomas Edison"}
+{"quote": "The harder you fall, the higher you bounce.", "author": "Douglas Horton"}
+{"quote": "Those who wish to sing; always find a song.", "author": "Swedish Proverb"}
+{"quote": "Women are made to be loved, not understood.", "author": "Oscar Wilde"}
+{"quote": "You can’t win unless you learn how to lose.", "author": "Kareem Abdul-Jabbar"}
+{"quote": "Individuality is the definition of freedom.", "author": "Anonymous"}
+{"quote": "They can’t scare me, if I scare them first.", "author": "Lady Gaga"}
+{"quote": "The breeze at dawn has secrets to tell you.", "author": "Rumi"}
+{"quote": "The more you care, the stronger you can be.", "author": "Jim Rohn"}
+{"quote": "People living deeply have no fear of death.", "author": "Anais Nin"}
+{"quote": "The only way to have a friend is to be one.", "author": "Ralph Waldo Emerson"}
+{"quote": "A tree that is unbending, is easily broken.", "author": "Laozi"}
+{"quote": "The more a man knows, the more he forgives.", "author": "Confucius"}
+{"quote": "It is better to travel well than to arrive.", "author": "Buddha"}
+{"quote": "My garden is my most beautiful masterpiece.", "author": "Claude Monet"}
+{"quote": "There is no death, only a change of worlds.", "author": "Chief Seattle"}
+{"quote": "Whoever is happy will make others happy too.", "author": "Anne Frank"}
+{"quote": "Tough times never last, but tough people do.", "author": "Dr. Robert Schuller"}
+{"quote": "When you come to a roadblock, take a detour.", "author": "Mary Kay Ash"}
+{"quote": "I will go anywhere as long as it is forward.", "author": "David Livingston"}
+{"quote": "Be yourself; everyone else is already taken.", "author": "Oscar Wilde"}
+{"quote": "You were born an original. Don’t die a copy.", "author": "John Mason"}
+{"quote": "Life is a story. Makes your the best seller.", "author": "Anonymous"}
+{"quote": "Envy me, rate me, bottom line: You aren’t me", "author": "Anonymous"}
+{"quote": "Art lives on constraint and dies of freedom.", "author": "Michelangelo"}
+{"quote": "The worst enemy of creativity is self-doubt.", "author": "Sylvia Plath"}
+{"quote": "Never give a sword to a man who can’t dance.", "author": "Confucius"}
+{"quote": "A man’s errors are his portals of discovery.", "author": "James Joyce"}
+{"quote": "True life is lived when tiny changes occur.", "author": "Leo Tolstoy"}
+{"quote": "Curiosity is lying in wait for every secret.", "author": "Ralph Waldo Emerson"}
+{"quote": "High expectations are the key to everything.", "author": "Sam Walto"}
+{"quote": "The man who has no imagination has no wings.", "author": "Mohammad Ali"}
+{"quote": "No man is free who is not master of himself.", "author": "Epictetus"}
+{"quote": "Success comes from within, not from without.", "author": "Rhonda Byrne"}
+{"quote": "Trust starts with truth and ends with truth.", "author": "Santosh Kalwar"}
+{"quote": "Trust your instincts. Intuition doesn’t lie.", "author": "Oprah Winfrey"}
+{"quote": "Replace fear of the unknown, with curiosity.", "author": "Dany Gokey"}
+{"quote": "Personality is everything in art and poetry.", "author": "Goethe"}
+{"quote": "Tough times do not last; but tough people do.", "author": "Robert H. Schuller"}
+{"quote": "It is never wrong time to do the right thing.", "author": "Anonymous"}
+{"quote": "In the middle of difficulty lies opportunity.", "author": "Albert Einstein"}
+{"quote": "Victory is sweetest when you’ve known defeat.", "author": "Malcolm S. Forbes"}
+{"quote": "You’re never fully dressed without a smile.", "author": "Martin Charnin"}
+{"quote": "What you don’t do can be a destructive force.", "author": "Eleanor Roosevelt"}
+{"quote": "He who must travel happily must travel light.", "author": "Antoine de Saint-Exupéry"}
+{"quote": "In compassion lies the world’s true strength.", "author": "Buddha"}
+{"quote": "Time is the physician that heals every grief.", "author": "Diphilus"}
+{"quote": "Once we accept our limits, we go beyond them.", "author": "Albert Einstein"}
+{"quote": "Forgiveness is the key to action and freedom.", "author": "Hannah Arendt"}
+{"quote": "All the wonders you seek are within yourself.", "author": "Sir Thomas Brown"}
+{"quote": "The time to embrace your magnificence is now.", "author": "Rhonda Byrne"}
+{"quote": "If I know what love is, it is because of you.", "author": "Herman Hesse"}
+{"quote": "The time is always right to do what is right.", "author": "Martin Luther King, Jr"}
+{"quote": "You’ve got to bumble forward into the unknown.", "author": "Frank Gehry"}
+{"quote": "The only thing we have to fear is fear itself.", "author": "Franklin D. Roosevelt"}
+{"quote": "When the going gets tough the tough get going.", "author": "Joseph P. Kennedy"}
+{"quote": "Sports do not build character. They reveal it.", "author": "Heywood Broun"}
+{"quote": "Action is the foundational key to all success.", "author": "Pablo Picasso"}
+{"quote": "Don’t wait. The time will never be just right.", "author": "Napoleon Hill"}
+{"quote": "Creativity means believing you have greatness.", "author": "Wayne Dyer"}
+{"quote": "All of us can create if we allow ourselves to.", "author": "Natalie Goldberg"}
+{"quote": "People only see what they are prepared to see.", "author": "Ralph Waldo Emerson"}
+{"quote": "Only through suffering can we find ourselves.", "author": "Fyodor Dostoevsky"}
+{"quote": "The universe is made up of stories, not atoms.", "author": "Muriel Rukeyser"}
+{"quote": "People empty me. I have to get away to refill.", "author": "Charles Bukowski"}
+{"quote": "Love is an ideal thing, marriage a real thing.", "author": "Goethe"}
+{"quote": "Every thought we think is creating our future.", "author": "Louise Hay"}
+{"quote": "Don’t wait. The time will never be just right.", "author": "Napoleon Hill"}
+{"quote": "The time you enjoy wasting is not wasted time.", "author": "Bertrand Russell"}
+{"quote": "Everything is a once in a lifetime experience.", "author": "Kobi Yamada"}
+{"quote": "What is true stillness? Stillness in movement.", "author": "Bruce Lee"}
+{"quote": "He who would travel happily must travel light.", "author": "Antoine de Saint-Exupery"}
+{"quote": "I cured with the power that came through me.", "author": "Black Elk"}
+{"quote": "The secret of getting ahead is getting started.", "author": "Mark Twain"}
+{"quote": "Change your thoughts and you change your world.", "author": "Norman Vincent Peale"}
+{"quote": "There are no traffic jams along the extra mile.", "author": "Roger Staubach"}
+{"quote": "Champions keep playing until they get it right.", "author": "Billie Jean King"}
+{"quote": "Do what you must, And your friends will adjust.", "author": "Robert Brault"}
+{"quote": "Mirrors lie. They don’t show you what’s inside.", "author": "Anonymous"}
+{"quote": "Ignorance, the root and the stem of every evil.", "author": "Plato"}
+{"quote": "Compassion is the chief law of human existence.", "author": "Fyodor Dostoyevsky"}
+{"quote": "Search for contentment in each person you meet.", "author": "Steve Maraboli"}
+{"quote": "Almost all creativity involves purposeful play.", "author": "Abraham Maslow"}
+{"quote": "I love you.You are beautiful.Please forgive me.", "author": "H. Jackson Brown Jr."}
+{"quote": "An apology is a good way to have the last word.", "author": "Anonymous"}
+{"quote": "To seek is to suffer. To seek nothing is bliss.", "author": "Bodhidharma"}
+{"quote": "Desire increases when fulfillment is postponed.", "author": "Pierre Corneille"}
+{"quote": "There is no cosmetic for beauty like happiness.", "author": "Maria Mitchell"}
+{"quote": "If you are to advance, all fixed ideas must go.", "author": "Joseph Campbell"}
+{"quote": "Solitude has its own very strange beauty to it.", "author": "Liv Tyler"}
+{"quote": "Art starts alone", "author": "and convinces society later. – Douglas Davis"}
+{"quote": "You are the only one that creates your reality.", "author": "Rhonda Byrne"}
+{"quote": "I can live for two months on a good compliment.", "author": "Mark Twain"}
+{"quote": "Let the beauty of what you love be what you do.", "author": "Rumi"}
+{"quote": "Silent gratitude isn’t very much use to anyone.", "author": "Gertrude Stein"}
+{"quote": "Trust yourself, you will start to trust others.", "author": "Santosh Kalwar"}
+{"quote": "Seek out a tree and let it teach you stillness.", "author": "Eckhart Tolle"}
+{"quote": "Nobody can give you wiser advice than yourself.", "author": "Cicero"}
+{"quote": "For the raindrop, joy is in entering the river.", "author": "Mirza Ghalib"}
+{"quote": "Courage is the power to let go of the familiar.", "author": "Raymond Lindquist"}
+{"quote": "To hold, you must first open your hand. Let go.", "author": "Lao Tzu"}
+{"quote": "Winning isn’t everything, but wanting to win is.", "author": "Vince Lombardi"}
+{"quote": "There are no shortcuts to any place worth going.", "author": "Anonymous"}
+{"quote": "My favorite things in life don’t cost any money.", "author": "Steve Jobs"}
+{"quote": "When life comes at you, come back twice as hard.", "author": "Anonymous"}
+{"quote": "Today is the first day of the rest of your life.", "author": "Anonymous"}
+{"quote": "Music is the wine that fills the cup of silence.", "author": "Robert Fripp"}
+{"quote": "Live today, for tomorrow it will all be history.", "author": "Anonymous"}
+{"quote": "I love those random memories that make me smile.", "author": "Anonymous"}
+{"quote": "Seek first to understand, then to be understood.", "author": "Stephen R. Covey"}
+{"quote": "He that can have patience can have what he will.", "author": "Benjamin Franklin"}
+{"quote": "To live in hearts we leave behind is not to die.", "author": "Thomas Campbell"}
+{"quote": "Always laugh when you can. It is cheap medicine.", "author": "Lord Byron"}
+{"quote": "Sell your cleaverness and purchase bewilderment.", "author": "Rumi"}
+{"quote": "Knowing yourself is the beginning of all wisdom.", "author": "Aristotle"}
+{"quote": "When the opportunity or impulse is there .. ACT.", "author": "Rhonda Byrne"}
+{"quote": "Marriage is the triumph of hope over experience.", "author": "Samuel Johnson"}
+{"quote": "The thankful receiver bears a plentiful harvest.", "author": "William Blake"}
+{"quote": "In search of my mother’s garden, I found my own.", "author": "Alice Walker"}
+{"quote": "Problems are not stop signs, they are guidelines.", "author": "Robert H. Schuller"}
+{"quote": "We know what we are, but know not what we may be.", "author": "William Shakespeare"}
+{"quote": "Believe and act as if it were impossible to fail.", "author": "Charles Kettering"}
+{"quote": "I destroy my enemies when I make them my friends.", "author": "Abraham Lincoln"}
+{"quote": "Problems are not stop signs; they are guidelines.", "author": "Robert H. Schuller"}
+{"quote": "If you ship doesn’t come in; swim out to meet it.", "author": "Jonathan Winters"}
+{"quote": "Failure defeats losers, failure inspires winners.", "author": "Robert T. Kiyosaki"}
+{"quote": "Life has no limitations except the ones you make.", "author": "Anonymous"}
+{"quote": "All of life’s riddles are answered in the movies.", "author": "Steve Martin"}
+{"quote": "We didn’t lose the game; we just ran out of time.", "author": "Vince Lombardi"}
+{"quote": "The road to success is always under construction.", "author": "Lily Tomlin"}
+{"quote": "The mind needs exercise as much as the body does.", "author": "John Morgan"}
+{"quote": "Depression opens the door to beauty of some kind.", "author": "James Hillman"}
+{"quote": "Wealth is the product of man’s capacity to think.", "author": "Ayn Rand"}
+{"quote": "It is never too late to give up your prejudices.", "author": "Henry David Thoreau"}
+{"quote": "There is no coming to consciousness without pain.", "author": "Carl Jung"}
+{"quote": "Death may be the greatest of all human blessings.", "author": "Socrates"}
+{"quote": "If you want to be enthusiastic, act enthusiastic.", "author": "Dale Carnegie"}
+{"quote": "Uncertainty and expectation are the joys of life.", "author": "William Congreve"}
+{"quote": "Fear is what prevents the flowering of the mind.", "author": "Krishnamurti"}
+{"quote": "Thinking will not overcome fear but action will.", "author": "W. Clement Stone"}
+{"quote": "We can’t be creative if we refuse to be confused.", "author": "Margaret Wheatley"}
+{"quote": "Every thought of yours is a real thing", "author": "a force. – Prentice Mulford"}
+{"quote": "Live your life, do your work, then take your hat.", "author": "Henry David Thoreau"}
+{"quote": "He who does not trust enough will not be trusted.", "author": "Laozi"}
+{"quote": "Travel brings power and love back into your life.", "author": "Rumi"}
+{"quote": "If it scares you, it might be a good thing to try.", "author": "Seth Godin"}
+{"quote": "Never confuse a single defeat with a final defeat.", "author": "F. Scott Fitzgerald"}
+{"quote": "When your work speaks for itself, don’t interrupt.", "author": "Henry J. Kaiser"}
+{"quote": "God couldn’t be everywhere, so he created mothers.", "author": "Jewish proverb"}
+{"quote": "An investment in knowledge pays the best interest.", "author": "Benjamin Franklin"}
+{"quote": "Do unto others as you would have them do unto you.", "author": "The Bible"}
+{"quote": "Women who seek to be equal with men lack ambition.", "author": "Timothy Leary"}
+{"quote": "This is your world. Shape it or someone else will.", "author": "Gary Lew"}
+{"quote": "Instead of competing, all we have to do is create.", "author": "Earl Nightingale"}
+{"quote": "You create your opportunities by asking for them.", "author": "Shakti Gawain"}
+{"quote": "The soul’s bliss and suffering are bound together.", "author": "Jane Kenyon"}
+{"quote": "Strength lies in differences, not in similarities.", "author": "Stephen R. Covey"}
+{"quote": "Fate chooses our relatives, we choose our friends.", "author": "Jacques Delille"}
+{"quote": "It’s not forgetting that heals. It’s remembering.", "author": "Amy Greene"}
+{"quote": "Healing yourself is connected with healing others.", "author": "Yoko Ono"}
+{"quote": "To understand everything is to forgive everything.", "author": "Buddha"}
+{"quote": "You were born to be an original. Don’t die a copy.", "author": "John Mason"}
+{"quote": "If you want results, then work like you want them.", "author": "Anonymous"}
+{"quote": "A year from now you may wish you had started today.", "author": "Karen Lamb"}
+{"quote": "There is no way to happiness. Happiness is the way.", "author": "Thich Nhat Hanh"}
+{"quote": "The most important thing about goals is having one.", "author": "Geoffry F. Abert"}
+{"quote": "Be content to act; and leave the talking to others.", "author": "Baltasa"}
+{"quote": "Not he who has much is rich, but he who gives much.", "author": "Erich Fromm"}
+{"quote": "Success is how high you bounce when you hit bottom.", "author": "George S. Patton"}
+{"quote": "A smile is a curve that sets everything straight.", "author": "Phyllis Diller"}
+{"quote": "Never regret something that once made you smile.", "author": "Chinese Proverb"}
+{"quote": "Choose well. Your choice is brief, and yet endless.", "author": "Goethe"}
+{"quote": "The greatest wealth is to live content with little.", "author": "Plato"}
+{"quote": "Life is change. Growth is optional. Choose wisely.", "author": "Karen Kaiser Clark"}
+{"quote": "He who has overcome his fears will truly be free.", "author": "Aristotle"}
+{"quote": "Everything you want is on the other side of fear.", "author": "Jack Canfield"}
+{"quote": "The whole secret of existence is to have no fear.", "author": "Buddha"}
+{"quote": "The possible’s slow fuse is lit by the imagination.", "author": "Emily Dickenson"}
+{"quote": "How bright and transparent the moonlight of wisdom.", "author": "Hakuin"}
+{"quote": "The future is uncertain but the end is always near.", "author": "Jim Morrison"}
+{"quote": "If you judge people, you have no time to love them.", "author": "Mother Teresa"}
+{"quote": "The core of my personality consists of many selves.", "author": "Hans Bender"}
+{"quote": "The only true wisdom is in knowing you know nothing.", "author": "Socrates"}
+{"quote": "Trust yourself. You know more than you think you do.", "author": "Benjamin Spock"}
+{"quote": "Our trials, our sorrows, and our grieves develop us.", "author": "Orison Swett Marden"}
+{"quote": "Life is either a daring adventure or nothing at all.", "author": "Helen Keller"}
+{"quote": "Dancing my dance, let others say whatever they like.", "author": "Anonymous"}
+{"quote": "Start every day with a smile and get it over with.", "author": "W.C. Fields"}
+{"quote": "The world always looks brighter from behind a smile.", "author": "Anonymous"}
+{"quote": "Creativity makes life more fun and more interesting.", "author": "Edward de Bono"}
+{"quote": "Creativity is a natural extension of our enthusiasm.", "author": "Earl Nightingale"}
+{"quote": "Your fortune is not something to find but to unfold.", "author": "Eric Butterworth"}
+{"quote": "To look at a thing is very different from seeing it.", "author": "Oscar Wilde"}
+{"quote": "It only takes one person to change your life", "author": "you. – Ruth Casey"}
+{"quote": "Ego is the immediate dictate of human consciousness.", "author": "Max Planck"}
+{"quote": "The world is extremely interesting to a joyful soul.", "author": "Alexandra Stoddard"}
+{"quote": "Live out of your imagination instead of your memory.", "author": "Les Brown"}
+{"quote": "To know is nothing at all; to imagine is everything.", "author": "Anatole France"}
+{"quote": "Wonder, rather than doubt, is the root of knowledge.", "author": "Abraham Heschel"}
+{"quote": "Always be on the lookout for the presence of wonder.", "author": "E. B. White"}
+{"quote": "Better to light a candle than to curse the darkness.", "author": "Chinese Proverb"}
+{"quote": "Who looks outside, dreams; who looks inside, awakes.", "author": "Carl Jung"}
+{"quote": "Problems can only exist if they have your attention.", "author": "Michael Beckwith"}
+{"quote": "Our soulmate is the one who makes life come to life.", "author": "Richard Bach"}
+{"quote": "Old gardeners never die, they just run out of thyme.", "author": "Gardening Saying"}
+{"quote": "Personality is to a man what perfume is to a flower.", "author": "Charles Schwab"}
+{"quote": "The journey of a thousand miles begins with one step.", "author": "Lao Tzu"}
+{"quote": "Wanting to be someone else is a waste of who you are.", "author": "Kurt Cobain"}
+{"quote": "Be there for others, but never leave yourself behind.", "author": "Dodinsky"}
+{"quote": "Don’t live the same year 75 times and call it a life.", "author": "Robin Sharma"}
+{"quote": "A champion is someone who gets up even when he can’t.", "author": "Jack Dempsey"}
+{"quote": "The best way to escape from a problem is to solve it.", "author": "Alan Saporta"}
+{"quote": "Hard work beats talent when talent doesn’t work hard.", "author": "Kevin Durant"}
+{"quote": "To be the best, you must be able to handle the worst.", "author": "Wilson Kanadi"}
+{"quote": "We fall in love BY CHANCE. We stay in love BY CHOICE.", "author": "Anonymous"}
+{"quote": "The only way to do great work is to love what you do.", "author": "Steve Jobs"}
+{"quote": "Drive your business. Let not your business drive you.", "author": "Benjamin Franklin"}
+{"quote": "Drawing is a door to discovering your own creativity.", "author": "Jonathan Milne"}
+{"quote": "Put a little fun into your life. Try dancing.", "author": "Kathryn Murray"}
+{"quote": "Abundance is about being rich, with or without money.", "author": "Suze Orman"}
+{"quote": "We can learn to be the catalysts for our own change.", "author": "Sarah Ban Breathnach"}
+{"quote": "If you can’t change your fate, change your attitude.", "author": "Amy Tan"}
+{"quote": "I prefer tongue-tied knowledge to ignorant loquacity.", "author": "Marcus Tullius Cicero"}
+{"quote": "Gratitude will bring more into our lives immediately.", "author": "Rhonda Byrne"}
+{"quote": "The purpose of meditation is personal transformation.", "author": "Henepola Gunaratana"}
+{"quote": "If you live among wolves you have to act like a wolf.", "author": "Nikita Khrushchev"}
+{"quote": "Every accomplishment starts with the decision to try.", "author": "Anonymous"}
+{"quote": "There’ll always be Serendipity involved in discovery.", "author": "Jeff Bezos"}
+{"quote": "Being entirely honest with oneself is a good exercise.", "author": "Sigmund Freud"}
+{"quote": "Action will remove the doubt that theory cannot solve.", "author": "Petryl Hsieh"}
+{"quote": "Life is about making an impact, not making an income.", "author": "Kevin Kruse"}
+{"quote": "The only true wisdom is knowing that you know nothing.", "author": "Socrates"}
+{"quote": "Man is the only creature who refuses to be what he is.", "author": "Albert Camus"}
+{"quote": "Because of your smile, you make life more beautiful.", "author": "Thich Nhat Hanh"}
+{"quote": "Man is made by his belief. As he believes, so he is.", "author": "Johann Wolfgang von Goethe"}
+{"quote": "Do you prefer that you be right, or that you be happy?", "author": "A Course in Miracles"}
+{"quote": "Our lives are a sum total of the choices we have made.", "author": "Wayne Dyer"}
+{"quote": "Common sense is genius dressed in its working clothes.", "author": "Ralph Waldo Emerson"}
+{"quote": "All of our existing ideas have creative possibilities.", "author": "Sir Ken Robinson"}
+{"quote": "No great discovery was ever made without a bold guess.", "author": "Isaac Newton"}
+{"quote": "The more boundless your vision, the more real you are.", "author": "Deepak Chopra"}
+{"quote": "There is no great genius without a mixture of madness.", "author": "Aristotle"}
+{"quote": "Life is under no obligation to give us what we expect.", "author": "Margaret Mitchell"}
+{"quote": "Your fear is 100% dependent on you for its survival.", "author": "Steve Maraboli"}
+{"quote": "Whoever can see through all fear will always be safe.", "author": "Tao Te Ching"}
+{"quote": "Alone we can do so little; together we can do so much.", "author": "Helen Keller"}
+{"quote": "Nothing is so powerful as an idea whose hour has come.", "author": "Victor Hugo"}
+{"quote": "No duty is more urgent than that of returning thanks.", "author": "James Allen"}
+{"quote": "Transformation literally means going beyond your form.", "author": "Wayne Dyer"}
+{"quote": "Man masters nature not by force, but by understanding.", "author": "Jacob Bronowski"}
+{"quote": "Turn your can’t into a can, and your dream into plan!", "author": "Cris Nikolov"}
+{"quote": "Sometimes the heart sees what is invisible to the eye.", "author": "H. Jackson Brown, Jr."}
+{"quote": "Most powerful is he who has himself in his own power.", "author": "Seneca"}
+{"quote": "Crises refine life. In them you discover what you are.", "author": "Allen K. Chalmers"}
+{"quote": "Somewhere, something incredible is waiting to be known.", "author": "Carl Sagan"}
+{"quote": "Nobody can make you feel inferior without your consent.", "author": "Eleanor Roosevelt"}
+{"quote": "I’d rather live with a good question than a bad answer.", "author": "Aryeh Frimer"}
+{"quote": "You can’t wake a person who is pretending to be asleep.", "author": "Anonymous"}
+{"quote": "The world is a jungle. You either fight or run forever.", "author": "Anonymous"}
+{"quote": "If at first you don’t succeed skydiving is not for you.", "author": "Anonymous"}
+{"quote": "Never stop learning, because life never stops teaching.", "author": "Anonymous"}
+{"quote": "I admire anyone with their own sense of personal style.", "author": "Nicole Richie"}
+{"quote": "Stay strong, make them wonder how you’re still smiling.", "author": "Anonymous"}
+{"quote": "I’ve never seen a smiling face that was not beautiful.", "author": "Newyorker"}
+{"quote": "Creativity makes a leap, then looks to see where it is.", "author": "Mason Cooley"}
+{"quote": "Don’t apologize for who your are or the art you create.", "author": "C.J. Rider"}
+{"quote": "Creativity is a process more often than it is an event.", "author": "Sir Ken Robinson"}
+{"quote": "Dancing can reveal all the mystery that music conceals.", "author": "Charles Baudelaire"}
+{"quote": "People don’t resist change. They resist being changed.", "author": "Peter Senge"}
+{"quote": "Death is nothing to fear. It is only another dimension.", "author": "Wayne Dyer"}
+{"quote": "It’s the friends you can call up at 4 a.m. that matter.", "author": "Marlene Dietrich"}
+{"quote": "It is the imagination that gives shape to the universe.", "author": "Barry Lopez"}
+{"quote": "No act of kindness, no matter how small, is ever wasted.", "author": "Aesop"}
+{"quote": "It is far better to be alone, than to be in bad company.", "author": "George Washington"}
+{"quote": "You will never find time for anything. You must make it.", "author": "Charles Buxton"}
+{"quote": "Don’t be pushed by your problems; be led by your dreams.", "author": "Ralph Waldo Emerson"}
+{"quote": "Don’t be afraid to give up the good to go for the great.", "author": "John D. Rockefeller"}
+{"quote": "I am not crazy. My reality is just different than yours.", "author": "Anonymous"}
+{"quote": "Courage is being scared to death but saddling up anyway.", "author": "John Wayne"}
+{"quote": "Dare to be different. The world is full of the ordinary.", "author": "Anonymous"}
+{"quote": "Start where you are. Use what you have. Do what you can.", "author": "Arthur Ashe"}
+{"quote": "Before anything else, preparation is the key to success.", "author": "Alexander Graham Bell"}
+{"quote": "One who smiles rather than rages is always the stronger.", "author": "Anonymous"}
+{"quote": "You can’t stop the waves, but you can learn how to surf.", "author": "Jon Kabat-Zinn"}
+{"quote": "It’s choice", "author": "not chance – that determines your destiny. – Jean Nidetch"}
+{"quote": "Every act of creation begins with an act of destruction.", "author": "Pablo Picasso"}
+{"quote": "The earth sets some music going in us and dance we must.", "author": "Ludwig Boone"}
+{"quote": "It is by logic we prove. It is by intuition we discover.", "author": "Henri Poincare"}
+{"quote": "I’m not the kind of person who gives up without a fight.", "author": "Michael Landon"}
+{"quote": "What will they think of me? Must be put aside for bliss.", "author": "Joseph Campbell"}
+{"quote": "The purpose of speech is to enliven the bliss in others.", "author": "Maharishi Mahesh Yogi"}
+{"quote": "Control of consciousness determines the quality of life.", "author": "Mihaly Csikszentmihalyi"}
+{"quote": "Judge a man by his questions rather than by his answers.", "author": "Voltaire"}
+{"quote": "Curiosity will conquer fear even more than bravery will.", "author": "James Stephens"}
+{"quote": "Death is like the rumble of distant thunder at a picnic.", "author": "W. H. Auden"}
+{"quote": "Decide that you want it more than you are afraid of it.", "author": "Bill Cosby"}
+{"quote": "I am the master of my fate; I am the captain of my soul.", "author": "William Ernest Henley"}
+{"quote": "Never love anybody who treats you like you are ordinary.", "author": "Oscar Wilde"}
+{"quote": "It’s not stress that kills us, it is our reaction to it.", "author": "Hans Selye"}
+{"quote": "You can’t hold a man down without staying down with him.", "author": "Booker T. Washington"}
+{"quote": "No matter how far you’ve gone on a wrong road, turn back.", "author": "Turkish Proverb"}
+{"quote": "The successful man is one who had the chance and took it.", "author": "Roger Babson"}
+{"quote": "An eye for eye only ends up making the whole world blind.", "author": "M. K. Gandhi"}
+{"quote": "Always forgive your enemies; nothing annoys them so much.", "author": "Oscar Wilde"}
+{"quote": "Science never solves a problem without creating ten more.", "author": "George Bernard Shaw"}
+{"quote": "Forget what hurt you but never forget what it taught you.", "author": "Anonymous"}
+{"quote": "The most common form of despair is not being who you are.", "author": "Soren Kierkegaard"}
+{"quote": "For success, attitude is equally as important as ability.", "author": "Harry F. Banks"}
+{"quote": "A smile is happiness you’ll find right under your nose.", "author": "Tom Wilson"}
+{"quote": "Creativity", "author": "like human life itself – begins in darkness. – Julia Cameron"}
+{"quote": "To find joy in work is to discover the fountain of youth.", "author": "Pearl S. Buck"}
+{"quote": "Being rich is having money; being wealthy is having time.", "author": "Margaret Bonnano"}
+{"quote": "Not in numbers but in unity that our great strength lies.", "author": "Thomas Paine"}
+{"quote": "Never make a defense or an apology until you are accused.", "author": "King Charles I"}
+{"quote": "The most effective way to manage change is to create it.", "author": "Peter F. Drucker"}
+{"quote": "It is a miracle that curiosity survives formal education.", "author": "Albert Einstein"}
+{"quote": "We no longer vibrate to fear when we’re attuned to love.", "author": "Frank Whitney"}
+{"quote": "Wherever you are, it is your friends who make your world.", "author": "William James"}
+{"quote": "I am a minimalist. I like saying the most with the least.", "author": "Bob Newhart"}
+{"quote": "I only go out to get me a fresh appetite for being alone.", "author": "Lord Byron"}
+{"quote": "See yourself living in abundance and you will attract it.", "author": "Rhonda Byrne"}
+{"quote": "Put not your trust in money, but put your money in trust.", "author": "Oliver Wendell Holmes"}
+{"quote": "Life consists of what a person is thinking about all day.", "author": "Ralph Waldo Emerson"}
+{"quote": "As soon as you trust yourself, you will know how to live.", "author": "Goethe"}
+{"quote": "Fear is a natural reaction to moving closer to the truth.", "author": "Pema Chodron"}
+{"quote": "He who doesn’t understand history is doomed to repeat it.", "author": "Pittacus Lore"}
+{"quote": "Sometimes the wrong choices bring us to the right places.", "author": "Anonymous"}
+{"quote": "Intuition will tell the thinking mind where to look next.", "author": "Jonas Salk"}
+{"quote": "Creativity can be described as letting go of certainties.", "author": "Gail Sheehy"}
+{"quote": "Letting your mind play is the best way to solve problems.", "author": "Bill Watterson"}
+{"quote": "It’s not what you look at that matters, it’s what you see.", "author": "Henry David Thoreau"}
+{"quote": "Those we love don’t go away, they walk beside us everyday.", "author": "Anonymous"}
+{"quote": "Don’t worry about failure; you only have to be right once.", "author": "Drew Houston"}
+{"quote": "I want to be your favorite hello and your hardest goodbye.", "author": "Anonymous"}
+{"quote": "If you don’t like where you are, move. You are not a tree.", "author": "Anonymous"}
+{"quote": "If you try, you risk failure. If you don’t, you ensure it.", "author": "Anonymous"}
+{"quote": "God has given you one face, and you make yourself another.", "author": "William Shakespeare"}
+{"quote": "I am not what happened to me. I am what I chose to become.", "author": "Carl Jung"}
+{"quote": "Creativity gives hope that there can be a worthwhile idea.", "author": "Edward de Bono"}
+{"quote": "Vision animates, inspires, transforms purpose into action.", "author": "Warren Bennis"}
+{"quote": "Remember there’s no such thing as a small act of kindness.", "author": "Scott Adams"}
+{"quote": "God is not found in places. God is found in consciousness.", "author": "Joel Goldsmith"}
+{"quote": "I have no special talents. I am only passionately curious.", "author": "Albert Einstein"}
+{"quote": "Enthusiasm, like the breath of God, transforms everything.", "author": "Gail Sher"}
+{"quote": "Nobody has a money problem", "author": "there are only idea problems. – Robert H. Schuller"}
+{"quote": "Forgiveness is not a one-time-only event. It is a process.", "author": "Rhonda Britten"}
+{"quote": "To carry a grudge is like being stung to death by one bee.", "author": "William H. Walton"}
+{"quote": "If you have time to be mindful, you have time to meditate.", "author": "Ajahn Chah"}
+{"quote": "To believe in something, and not to live it, is dishonest.", "author": "Mahatma Gandhi"}
+{"quote": "Find what makes your heart sing and create your own music.", "author": "Mac Anderson"}
+{"quote": "Whatever our souls are made of, his and mine are the same.", "author": "Emily Brontë"}
+{"quote": "One day spent with someone you love can change everything.", "author": "Mitch Albom"}
+{"quote": "Just like the butterfly, I too will awaken in my own time.", "author": "Deborah Chaskin"}
+{"quote": "Trusting yourself is trusting the wisdom that created you.", "author": "Wayne Dyer"}
+{"quote": "The pain you feel today is the strength you feel tomorrow.", "author": "Anonymous"}
+{"quote": "The sole advantage of power is that you can do more good.", "author": "Baltasar Gracian"}
+{"quote": "The best preparation for tomorrow is doing your best today.", "author": "H. Jackson Brown, Jr."}
+{"quote": "Nothing is impossible, the word itself says ‘I’m possible’!", "author": "Audrey Hepburn"}
+{"quote": "Everything you’ve ever wanted is on the other side of fear.", "author": "George Addair"}
+{"quote": "What we fear doing most is usually what we most need to do.", "author": "Tim Ferriss"}
+{"quote": "Everywhere is within walking distance if you have the time.", "author": "Steven Wright"}
+{"quote": "Focus on where you want to go; not where you currently are.", "author": "Anonymous"}
+{"quote": "The simple act of paying attention can take you a long way.", "author": "Keanu Reeves"}
+{"quote": "You only live once, but if you do it right, once is enough.", "author": "Mae West"}
+{"quote": "If you tell the truth, you don’t have to remember anything.", "author": "Mark Twain"}
+{"quote": "Love is like a virus. It can happen to anybody at any time.", "author": "Maya Angelou"}
+{"quote": "There is only one you for all time. Fearlessly be yourself.", "author": "Anthony Rapp"}
+{"quote": "People seldom notice old clothes if you wear a big smile.", "author": "Lee Mildon"}
+{"quote": "No problem can withstand the assault of sustained thinking.", "author": "Voltaire"}
+{"quote": "If someone throws you the ball, you don’t have to catch it.", "author": "Richard Carlson"}
+{"quote": "Nothing feeds the center of being so much as creative work.", "author": "Anne Morrow Lindbergh"}
+{"quote": "Concern should drive us into action, not into a depression.", "author": "Karen Horney"}
+{"quote": "Everything is connected…no one thing can change by itself.", "author": "Paul Hawken"}
+{"quote": "If you have always done it that way, it is probably wrong.", "author": "Charles F. Kettering"}
+{"quote": "To be a leader you must be able to create positive change.", "author": "John C. Maxwell"}
+{"quote": "The great mystery of our consciousness is beyond our grasp.", "author": "William Shatner"}
+{"quote": "To invent you need a goal, imagination, and a pile of junk.", "author": "Thomas Alva Edison"}
+{"quote": "Come out of the circle of time and into the circle of love.", "author": "Rumi"}
+{"quote": "God didn’t do it all in one day. What makes me think I can?", "author": "Anonymous"}
+{"quote": "Peace is the one condition of survival in this nuclear age.", "author": "Adlai Stevenson"}
+{"quote": "It is better to be feared than loved, if you cannot be both.", "author": "Niccolo Machiavelli"}
+{"quote": "The world makes way for the man who knows where he is going.", "author": "Ralph Waldo Emerson"}
+{"quote": "To be wronged is nothing unless you continue to remember it.", "author": "Confucius"}
+{"quote": "Life is 10% what happens to me and 90% of how I react to it.", "author": "Charles Swindoll"}
+{"quote": "What is lovely never dies, but passes into other loveliness.", "author": "Anonymous"}
+{"quote": "Strong you really are until being strong is the only choice.", "author": "Anonymous"}
+{"quote": "Happiness is nothing more than good health and a bad memory.", "author": "Albert Schweitzer"}
+{"quote": "Don’t let what you cannot do interfere with what you can do.", "author": "John R. Wooden"}
+{"quote": "I find that the harder I work, the more luck I seem to have.", "author": "Thomas Jefferson"}
+{"quote": "Smile, it’s the key that fits the lock on everyone’s hearts.", "author": "Anonymous"}
+{"quote": "You’re only as young as the last time you changed your mind.", "author": "Timothy Leary"}
+{"quote": "Nonsense is so good only because common sense is so limited.", "author": "George Santayana"}
+{"quote": "The creative process is a process of surrender, not control.", "author": "Julia Cameron"}
+{"quote": "I am enough of an artist to draw freely upon my imagination.", "author": "Albert Einstein"}
+{"quote": "Nobody cares if you can’t dance well. Just get up and dance.", "author": "Dave Barry"}
+{"quote": "The truest expression of a people is in its dance and music.", "author": "Agnes de Mille"}
+{"quote": "Materialism is the only form of distraction from true bliss.", "author": "Douglas Horton"}
+{"quote": "Only love has the ability to put you in that state of bliss.", "author": "Miguel Angel Ruiz"}
+{"quote": "Enthusiasm is not contrary to reason. It is reason –on fire.", "author": "Peter Marshall"}
+{"quote": "I’ve loved the stars too fondly to be fearful of the night.", "author": "Galileo"}
+{"quote": "Fear is the reason for making art. It is a means to freedom.", "author": "Ilya Kabakov"}
+{"quote": "A single rose can be my garden… a single friend, my world.", "author": "Leo Buscaglia"}
+{"quote": "What happens when people open their hearts? They get better.", "author": "Haruki Murakami"}
+{"quote": "The universe will reward you for taking risks on its behalf.", "author": "Shakti Gawain"}
+{"quote": "You can’t have a universe without the mind entering into it.", "author": "Rhonda Byrne"}
+{"quote": "Never invest in any idea you can’t illustrate with a crayon.", "author": "Peter Lynch"}
+{"quote": "Trust in dreams, for in them is hidden the gate to eternity.", "author": "Khalil Gibran"}
+{"quote": "The greatest oak was once a little nut, who held its ground.", "author": "Anonymous"}
+{"quote": "Style is a reflection of your attitude and your personality.", "author": "Shawn Ashmore"}
+{"quote": "Let your heart soar as high as it will. Refuse to be average.", "author": "A. W. Tozer"}
+{"quote": "What you do speaks so loudly that I cannot hear what you say.", "author": "Ralph Waldo Emerson"}
+{"quote": "If women could read minds, every second man will get slapped.", "author": "Anonymous"}
+{"quote": "You must go on adventures to find out where you truly belong.", "author": "Anonymous"}
+{"quote": "If you see a friend without a smile; give him one of yours.", "author": "Proverb"}
+{"quote": "Creativity is the power to connect the seemingly unconnected.", "author": "William Plomer"}
+{"quote": "That is all I want in life: for this pain to seem purposeful.", "author": "Elizabeth Wurtzel"}
+{"quote": "It is hopelessness even more than pain that crushes the soul.", "author": "William Styron"}
+{"quote": "There is a crack in everything, that’s how the light gets in.", "author": "Leonard Cohen"}
+{"quote": "When your self-worth goes up, your net worth goes up with it.", "author": "Mark Victor Hansen"}
+{"quote": "Even if a unity of faith is not possible, a unity of love is.", "author": "Hans Urs von Balthasar"}
+{"quote": "Events bring you small joy, while existence brings you bliss.", "author": "Sri Sri Ravi Shankar"}
+{"quote": "You’re only as young as the last time you changed your mind.", "author": "Timothy Leary"}
+{"quote": "Human consciousness is just about the last surviving mystery.", "author": "Daniel Dennett"}
+{"quote": "Noble deeds and hot baths are the best cures for depression.", "author": "Dodie Smith"}
+{"quote": "Every problem is a gift", "author": "without problems we would not grow. – Anthony Robbins"}
+{"quote": "Sayings remain meaningless until they are embodied in habits.", "author": "Kahlil Gibran"}
+{"quote": "Nothing in life is to be feared, it is only to be understood.", "author": "Madame Curie"}
+{"quote": "Every day I run scared. That’s the only way I can stay aheah.", "author": "John H. Johnson"}
+{"quote": "For peace of mind, resign as general manager of the universe.", "author": "Larry Eisenberg"}
+{"quote": "There is no escape. We pay for the violence of our ancestors.", "author": "Frank Herbert"}
+{"quote": "If you cannot do great things, do small things in a great way.", "author": "Napoleon Hill"}
+{"quote": "Friends show their love in times of trouble, not in happiness.", "author": "Euripides"}
+{"quote": "Your imagination is your preview of life’s coming attractions.", "author": "Albert Einstein"}
+{"quote": "What the mind of man can conceive and believe, it can achieve.", "author": "Napoleon Hill"}
+{"quote": "If the plan doesn’t work, change the plan, but never the goal.", "author": "Anonymous"}
+{"quote": "Genius is the ability to put into effect what is in your mind.", "author": "F. Scott Fitzgerald"}
+{"quote": "Fear knocked at the door, Faith answered and nobody was there.", "author": "Anonymous"}
+{"quote": "Remember that happiness is a way of travel, not a destination.", "author": "Roy M. Goodman"}
+{"quote": "Life is really simple, but we insist on making it complicated.", "author": "Anonymous"}
+{"quote": "Life has two rules: #1 Never Quit. #2 Always remember rule #1.", "author": "Anonymous"}
+{"quote": "The breakfast of champions is not cereal, it’s the opposition.", "author": "Nick Seitz"}
+{"quote": "Not everyday is good. But there is something good in everyday.", "author": "Anonymous"}
+{"quote": "If you smile when no one else is around, you really mean it.", "author": "Andy Rooney"}
+{"quote": "It is in your moments of decision that your destiny is shaped.", "author": "Anthony Robbins"}
+{"quote": "True creativity is impossible without some measure of passion.", "author": "Teresa Amabile"}
+{"quote": "Insanity", "author": "a perfectly rational adjustment to an insane world. – R. D. Laing"}
+{"quote": "When words are both true and kind, they can change our world.", "author": "Buddha"}
+{"quote": "Without a sense of caring, there can be no sense of community.", "author": "Anthony J. D’Angelo"}
+{"quote": "A sense of curiosity is nature’s original school of education.", "author": "Smiley Blanton"}
+{"quote": "When curiosity turns to serious matters, it’s called research.", "author": "Marie von Ebner-Eschenbach"}
+{"quote": "To live a creative life, we must lose our fear of being wrong.", "author": "Joseph Pearce"}
+{"quote": "The greatest healing would be to wake up from what we are not.", "author": "Mooji"}
+{"quote": "To be wronged is nothing unless you continue to remember it.~", "author": "Confucius"}
+{"quote": "The bad news is time flies. The good news is you’re the pilot.", "author": "Michael Altshuler"}
+{"quote": "How beautiful it is to do nothing, and then to rest afterward.", "author": "Spanish Proverb"}
+{"quote": "I have not failed. I’ve just found 10,000 ways that won’t work.", "author": "Thomas A. Edison"}
+{"quote": "The more I want to get something done, the less I call it work.", "author": "Richard Bach"}
+{"quote": "Always make a total effort, even when the odds are against you.", "author": "Arnold Palmer"}
+{"quote": "Go big or go home. Because it’s true. What do you have to lose?", "author": "Eliza Dushku"}
+{"quote": "We must embrace our pain and burn it as a fuel for our journey.", "author": "Kenji Miyazawa"}
+{"quote": "People with the greatest advise usually have the most problems.", "author": "Anonymous"}
+{"quote": "Say what you feel. It’s not being rude, it’s called being real.", "author": "Anonymous"}
+{"quote": "Your attitude, not your aptitude, will determine your altitude.", "author": "Zig Ziglar"}
+{"quote": "You’ll find that life is still worthwhile, if you just smile.", "author": "Charlie Chaplin"}
+{"quote": "A first-rate soup is more creative than a second-rate symphony.", "author": "Abraham Maslow"}
+{"quote": "If that’s all there is, my friends, then let’s keep dancing.", "author": "Peggy Lee"}
+{"quote": "I think if there’s a great depression there might be some hope.", "author": "Lawrence Ferlinghetti"}
+{"quote": "When you’re curious, you find lots of interesting things to do.", "author": "Walt Disney"}
+{"quote": "If you can give your child only one gift, let it be enthusiasm.", "author": "Bruce Barton"}
+{"quote": "When you are grateful, fear disappears and abundance appears.", "author": "Anthony Robbins"}
+{"quote": "You have to know how to accept rejection and reject acceptance.", "author": "Ray Bradbury"}
+{"quote": "Don’t settle for a relationship that won’t let you be yourself.", "author": "Oprah Winfrey"}
+{"quote": "All I’m trying to do is not join my ancestral spirits just yet.", "author": "Joshua Nkomo"}
+{"quote": "Give without remembering and always receive without forgetting.", "author": "Anonymous"}
+{"quote": "Personality is only ripe when a man has made the truth his own.", "author": "Soren Kierkegaard"}
+{"quote": "Love isn’t something you find. Love is something that finds you.", "author": "Loretta Young"}
+{"quote": "Anyone who has ever made anything of importance was disciplined.", "author": "Andrew Hendrixson"}
+{"quote": "I attribute my success to this: I never gave or took any excuse.", "author": "Florence Nightingale"}
+{"quote": "You must expect great things of yourself before you can do them.", "author": "Michael Jordan"}
+{"quote": "Everything is funny as long as it is happening to somebody else.", "author": "Will Rogers"}
+{"quote": "Be not afraid of going slowly, be afraid only of standing still.", "author": "Chinese proverb"}
+{"quote": "Life becomes easier when you delete the negative people from it.", "author": "Anonymous"}
+{"quote": "You’re the author AND illustrator of your life…don’t plagiarize.", "author": "Anonymous"}
+{"quote": "You’ve got to keep the child alive; you can’t create without it.", "author": "Joni Mitchell"}
+{"quote": "There are far, far better things ahead than any we leave behind.", "author": "C. S. Lewis"}
+{"quote": "The price of anything is the amount of life you exchange for it.", "author": "Henry David Thoreau"}
+{"quote": "Today the greatest single source of wealth is between your ears.", "author": "Brian Tracy"}
+{"quote": "An apology might help, but you can change your life without one.", "author": "Robin Quivers"}
+{"quote": "Every production of genius must be the production of enthusiasm.", "author": "Benjamin Disraeli"}
+{"quote": "I prefer the errors of enthusiasm to the indifference of wisdom.", "author": "Anatole France"}
+{"quote": "We are always paid for our suspicion by finding what we suspect.", "author": "Henry David Thoreau"}
+{"quote": "A mere friend will agree with you, but a real friend will argue.", "author": "Russian Proverb"}
+{"quote": "If you neglect your art for one day it will neglect you for two.", "author": "Chinese Proverb"}
+{"quote": "Remember that your thoughts are the primary cause of everything.", "author": "Rhonda Byrne"}
+{"quote": "Today is your day, your mountain is waiting, so get on your way.", "author": "Dr. Seuss"}
+{"quote": "In life you are either a passenger or a pilot, it’s your choice!", "author": "Anonymous"}
+{"quote": "Loneliness can be conquered only by those who can bear solitude.", "author": "Paul Tillich"}
+{"quote": "A ship in port is safe, but that’s not what ships are built for.", "author": "Grace Hopper"}
+{"quote": "Don’t die crying that you can’t climb the mountain. Die climbing.", "author": "Anonymous"}
+{"quote": "Remember, if you want a different result; do something different.", "author": "Anonymous"}
+{"quote": "It does not matter how slowly you go; as long as you do not stop.", "author": "Confucius"}
+{"quote": "Our attitude towards life determines; life’s attitude towards us.", "author": "John N. Mitchell"}
+{"quote": "It’s not where you live that matters. It’s what lives inside you.", "author": "Anonymous"}
+{"quote": "Life is what happens to you while you’re busy making other plans.", "author": "John Lennon"}
+{"quote": "When sorrows come, they come not single spies, but in battalions.", "author": "William Shakespeare"}
+{"quote": "In the midst of movement and chaos, keep stillness inside of you.", "author": "Deepak Chopra"}
+{"quote": "Set a goal that makes you want to jump out of bed in the morning.", "author": "Anonymous"}
+{"quote": "Education’s purpose is to replace an empty mind with an open one.", "author": "Malcolm Forbes"}
+{"quote": "Judge your success by what you had to give up in order to get it.", "author": "Dalai Lama"}
+{"quote": "The successful warrior is the average man, with laser-like focus.", "author": "Bruce Lee"}
+{"quote": "Success is the sum of small efforts, repeated day-in and day-out.", "author": "Robert Collier"}
+{"quote": "How can you expect a man who’s warm to understand one who’s cold.", "author": "Alexander Solzhenitsyn"}
+{"quote": "You can’t use up creativity. The more you use, the more you have.", "author": "Maya Angelou"}
+{"quote": "Unity to be real must stand the severest strain without breaking.", "author": "Mahatma Gandhi"}
+{"quote": "When you don’t know what to do, get still. The answer will come.", "author": "Oprah Winfrey"}
+{"quote": "Things don’t change. You change your way of looking, that’s all.", "author": "Carlos Castaneda"}
+{"quote": "We are most alive when our hearts are conscious of our treasures.", "author": "Thornton Wilder"}
+{"quote": "I will not let anyone walk through my mind with their dirty feet.", "author": "Mahatma Gandhi"}
+{"quote": "There will always be people who will accept you for what you are!", "author": "Sakura Tsukuba"}
+{"quote": "The only tyrant I accept in this world is the still voice within.", "author": "Mahatma Gandhi"}
+{"quote": "If at first the idea is not absurd, then there is no hope for it.", "author": "Albert Einstein"}
+{"quote": "It is easier to tone down a wild idea than to think up a new one.", "author": "Alex Osborn"}
+{"quote": "Rivers know this: there is no hurry. We shall get there some day.", "author": "A. A. Milne"}
+{"quote": "It’s okay to have faith in something that you can’t see or touch.", "author": "Chad Kroeger"}
+{"quote": "Realize deeply that the present moment is all you will ever have.", "author": "Eckhart Tolle"}
+{"quote": "Jump, and you will find out how to unfold your wings as you fall.", "author": "Ray Bradbury"}
+{"quote": "I’m an idealist. I don’t know where I’m going, but I’m on my way.", "author": "Carl Sandburg"}
+{"quote": "If it is not right do not do it; if it is not true do not say it.", "author": "Marcus Aurelius"}
+{"quote": "Happiness is not a state to arrive at, but a manner of traveling.", "author": "Margaret Lee Runbeck"}
+{"quote": "If you have a garden and a library, you have everything you need.", "author": "Marcus Tullius Cicero"}
+{"quote": "People need hard times and oppression to develop psychic muscles.", "author": "Emily Dickinson"}
+{"quote": "When you reach the end of your rope, tie a knot in it and hang on.", "author": "Franklin D. Roosevelt"}
+{"quote": "You must not only aim right, but draw the bow with all your might.", "author": "Henry David Thoreau"}
+{"quote": "We must not allow other people’s limited perceptions to define us.", "author": "Virginia Satir"}
+{"quote": "Tension is who you think you should be. Relaxation is who you are.", "author": "Chinese Proverb"}
+{"quote": "A comfort zone is a beautiful place, but nothing ever grows there.", "author": "Anonymous"}
+{"quote": "Nothing is permanent in this wicked world", "author": "not even our troubles. – Charlie Chaplin"}
+{"quote": "If you don’t change your commitment then sky is the limit for you.", "author": "Anonymous"}
+{"quote": "Nobody is worth your tears, and the one who is won’t make you cry.", "author": "Anonymous"}
+{"quote": "The cure for boredom is curiosity. There is no cure for curiosity.", "author": "Ellen Parr"}
+{"quote": "What seems to us as bitter trials are often blessings in disguise.", "author": "Oscar Wilde"}
+{"quote": "To succeed in life, you need two things: ignorance and confidence.", "author": "Mark Twain"}
+{"quote": "Common sense in an uncommon degree is what the world calls wisdom.", "author": "Samuel Taylor Coleridge"}
+{"quote": "Many people lose the small joys in the hope for the big happiness.", "author": "Pearl S. Buck"}
+{"quote": "It’s easy to make a buck. It’s a lot tougher to make a difference.", "author": "Tom Brokaw"}
+{"quote": "It is always so simple, and so complicating, to accept an apology.", "author": "Michael Chabon"}
+{"quote": "One person caring about another represents life’s greatest value.", "author": "Jim Rohn"}
+{"quote": "The great pleasure in life is doing what people say you cannot do.", "author": "Walter Bagehot"}
+{"quote": "When buying shares, ask yourself, would you buy the whole company?", "author": "Rene Rivkin"}
+{"quote": "You can hear the footsteps of God when silence reigns in the mind.", "author": "Sai Baba"}
+{"quote": "Re-examine all you have been told. Dismiss what insults your soul.", "author": "Walt Whitman"}
+{"quote": "Slow down. Calm down. Don’t worry. Don’t hurry. Trust the process.", "author": "Alexandra Stoddard"}
+{"quote": "The self must know stillness before it can discover its true song.", "author": "Ralph Brum"}
+{"quote": "People know you for what you’ve done, not for what you plan to do.", "author": "Anonymous"}
+{"quote": "Do you give as much energy to your dreams as you do to your fears?", "author": "Anonymous"}
+{"quote": "A leader is one who knows the way, goes the way, and shows the way.", "author": "John C. Maxwell"}
+{"quote": "Life isn’t about finding yourself. Life is about creating yourself.", "author": "George Bernard Shaw"}
+{"quote": "Do your own thing on your own terms and get what you came here for.", "author": "Oliver James"}
+{"quote": "Do the hard jobs first. The easy jobs will take care of themselves.", "author": "Dale Carnegie"}
+{"quote": "If we’re growing; we’re always going to be out of our comfort zone.", "author": "John Maxwell"}
+{"quote": "Motivation is what gets you started. Habit is what keeps you going.", "author": "Jim Rohn"}
+{"quote": "Until you start believing in yourself; you ain’t gonna have a life!", "author": "Rocky Balboa"}
+{"quote": "Failure is only the opportunity; to begin again more intelligently.", "author": "Henry Ford"}
+{"quote": "Your time is limited, so don’t waste it living someone else’s life.", "author": "Steve Jobs"}
+{"quote": "If you do right, no one remembers. If you do wrong, no one forgets.", "author": "Anonymous"}
+{"quote": "I’m too busy working on my own grass to notice if yours is greener.", "author": "Anonymous"}
+{"quote": "Life is a spell so exquisite that everything conspires to break it.", "author": "Emily Dickinson"}
+{"quote": "Success is going from failure to failure without losing enthusiasm.", "author": "Winston Churchill"}
+{"quote": "Life isn’t about finding yourself. Life is about creating yourself.", "author": "George Bernard Shaw"}
+{"quote": "Don’t brood. Get on with living and loving. You don’t have forever.", "author": "Leo Buscaglia"}
+{"quote": "Success is largely a matter of holding on after others have let go.", "author": "Anonymous"}
+{"quote": "It is health that is real wealth and not pieces of gold and silver.", "author": "Mahatma Gandhi"}
+{"quote": "The one thing worse than not being able to see is having no vision.", "author": "Helen Keller"}
+{"quote": "When there is no enemy within, the enemies outside cannot hurt you.", "author": "Winston S. Churchill"}
+{"quote": "If we’re growing, we’re always going to be out of our comfort zone.", "author": "John C. Maxwell"}
+{"quote": "Before you reject an idea, find at least five good things about it.", "author": "Thomas Alva Edison"}
+{"quote": "Once you make a decision, the universe conspires to make it happen.", "author": "Ralph Waldo Emerson"}
+{"quote": "Instructions for life: Pay attention. Be astonished. Tell about it.", "author": "Mary Oliver"}
+{"quote": "You can cheat an honest man but you can not make a fool out of him.", "author": "Confucius"}
+{"quote": "The only problem with seeing people you know is that they know you.", "author": "Brent Runyon"}
+{"quote": "Every thought has a frequency. Thoughts send out a magnetic energy.", "author": "Rhonda Byrne"}
+{"quote": "People become depressed when they neglect their spiritual practice.", "author": "Dharma Mittra"}
+{"quote": "Tension is who you think you should be. Relaxation is who you are.", "author": "Chinese Proverb"}
+{"quote": "The world is a book and those who do not travel read only one page.", "author": "Augustine of Hippo"}
+{"quote": "A mentor is someone who allows you to see the hope inside yourself.", "author": "Oprah Winfrey"}
+{"quote": "All our dreams can come true, if we have the courage to pursue them.", "author": "Walt Disney"}
+{"quote": "Life is not a problem to be solved, but a reality to be experienced.", "author": "Soren Kierkegaard"}
+{"quote": "Surround yourself with only people who are going to lift you higher.", "author": "Oprah Winfrey"}
+{"quote": "People ask, ‘What’s the best role you’ve ever played?’ The next one.", "author": "Kevin Kline"}
+{"quote": "The only place where success comes before work is in the dictionary.", "author": "Vidal Sassoon"}
+{"quote": "If you always do what interests you, at least one person is pleased.", "author": "Katharine Hepburn"}
+{"quote": "The only way not to think about money is to have a great deal of it.", "author": "Edith Wharton"}
+{"quote": "Wanting to be someone else, is the waste of the person that you are.", "author": "Anonymous"}
+{"quote": "You don’t have to see the whole staircase, just take the first step.", "author": "Martin Luther King, Jr."}
+{"quote": "Success is getting what you want. Happiness is wanting what you get.", "author": "Dale Carnegie"}
+{"quote": "If I have seen further it is by standing on the shoulders of giants.", "author": "Isaac Newton"}
+{"quote": "Insanity is relative. It depends on who has who locked in what cage.", "author": "Ray Bradbury"}
+{"quote": "Maintaining a complicated life is a great way to avoid changing it.", "author": "Elaine St. James"}
+{"quote": "We make a living by what we get, but we make a life by what we give.", "author": "Winston Churchill"}
+{"quote": "The search for happiness is one of the chief sources of unhappiness.", "author": "Eric Hoffer"}
+{"quote": "Ideas are like frog eggs: you’ve got to lay a thousand to hatch one.", "author": "Peter F. Drucker"}
+{"quote": "Only passions, great passions, can elevate the soul to great things.", "author": "Albert Diderot"}
+{"quote": "The best way to find out if you can trust somebody is to trust them.", "author": "Ernest Hemingway"}
+{"quote": "Don’t cheat the world of your contribution. Give it what you’ve got.", "author": "Steven Pressfield"}
+{"quote": "Spending time in nature both reduces stress and enhances creativity.", "author": "Salli Rasberry"}
+{"quote": "The natural environment sustains the life of all beings universally.", "author": "Dalai Lama"}
+{"quote": "It is during our darkest moments that we must focus to see the light.", "author": "Aristotle"}
+{"quote": "The shortest way to do many things is to do only one thing at a time.", "author": "Richard Bach"}
+{"quote": "Everything is okay in the end; if it’s not ok, then it’s not the end.", "author": "Anonymous"}
+{"quote": "The difference between winning and losing is most often not quitting.", "author": "Walt Disney"}
+{"quote": "The distance between insanity and genius is measured only by success.", "author": "Bruce Feirstein"}
+{"quote": "Mistakes are always forgivable, if one has the courage to admit them.", "author": "Bruce Lee"}
+{"quote": "Faced with what is right, to leave it undone shows a lack of courage.", "author": "Confucius"}
+{"quote": "Early to bed and early to rise makes a man healthy, wealthy and wise.", "author": "Benjamin Franklin"}
+{"quote": "Life can only be understood backwards; but it must be lived forwards.", "author": "Soren Kierkegaard"}
+{"quote": "Success is simple. Do what’s right, the right way, at the right time.", "author": "Arnold H. Glasgow"}
+{"quote": "Success usually comes to those who are too busy to be looking for it.", "author": "Henry David Thoreau"}
+{"quote": "Creativity is thinking up new things. Innovation is doing new things.", "author": "Theodore Levitt"}
+{"quote": "Every door is another passage, another boundary we have to go beyond.", "author": "Rumi"}
+{"quote": "Every day begins with an act of courage and hope: getting out of bed.", "author": "Mason Cooley"}
+{"quote": "The cause of poverty is not scarcity. It is fear and small thinking.", "author": "Alan Cohen"}
+{"quote": "Logic will get you from A to B. Imagination will take you everywhere.", "author": "Albert Einstein"}
+{"quote": "If you enjoy living, it is not difficult to keep the sense of wonder.", "author": "Ray Bradbury"}
+{"quote": "Thought is the blossom; language the bud; action the fruit behind it.", "author": "Ralph Waldo Emerson"}
+{"quote": "Trees and plants always look like the people they live with, somehow.", "author": "Zora Neale Hurston"}
+{"quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.", "author": "Benjamin Franklin"}
+{"quote": "Forces against us can never be more powerful than the force within us.", "author": "Anonymous"}
+{"quote": "First, say to yourself what you would be; Then do what you have to do.", "author": "Epictetus"}
+{"quote": "Nothing happens by accident. You are exactly where you’re meant to be.", "author": "Jerose"}
+{"quote": "There is no greater sorrow than to recall happiness in times of misery", "author": "Dante Alighieri"}
+{"quote": "Never sacrifice three things: your family, your heart or your dignity.", "author": "Anonymous"}
+{"quote": "A real entrepreneur is somebody who has no safety net underneath them.", "author": "Henry Kravis"}
+{"quote": "Best way to not get your heart broken, is pretend you don’t have one.", "author": "Charlie Sheen"}
+{"quote": "Change the way you look at things and the things you look at change.", "author": "Wayne W. Dyer"}
+{"quote": "They must often change, who would be constant in happiness or wisdom.", "author": "Confucius"}
+{"quote": "And when the earth shall claim your limbs, then shall you truly dance.", "author": "Kahlil Gibran"}
+{"quote": "It’s no coincidence that four of the six letters in health are ‘heal’.", "author": "Ed Northstrum"}
+{"quote": "Forgiveness is a funny thing. It warms the hearts and cools the sting.", "author": "Peter Allen"}
+{"quote": "A man who makes trouble for others is also making trouble for himself.", "author": "Chinua Achebe"}
+{"quote": "We can have whatever it is that we choose. I don’t care how big it is.", "author": "John Assaraf"}
+{"quote": "Every single thing you’ve been through in your life has had a purpose.", "author": "Beth Moore"}
+{"quote": "If everyone thought before they spoke, the silence would be deafening.", "author": "George Barzan"}
+{"quote": "Ten people who speak make more noise than ten thousand who are silent.", "author": "Napoleon Bonaparte"}
+{"quote": "A truth that’s told with bad intent beats all the lies you can invent.", "author": "William Blake"}
+{"quote": "A man who wants to lead the orchestra must turn his back on the crowd.", "author": "James Cook"}
+{"quote": "You are unrepeatable. There is a magic about you that is all your own.", "author": "D.M. Dellinger"}
+{"quote": "Sometimes the poorest man leaves his children the richest inheritance.", "author": "Ruth E. Renkel"}
+{"quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.", "author": "Samuel Beckett"}
+{"quote": "The difference between ordinary and extraordinary is that little extra.", "author": "Jimmy Johnson"}
+{"quote": "Sometimes you have to jump first and; build your wings on the way down.", "author": "Anonymous"}
+{"quote": "Don’t be afraid your life will end; Be afraid that it will never begin.", "author": "Grace Hansen"}
+{"quote": "It’s not that I’m so smart; Its’ just that I stay with problems longer.", "author": "Albert Einstein"}
+{"quote": "If you aren’t fired with enthusiasm; you will be fired with enthusiasm.", "author": "Vince Lombardi"}
+{"quote": "The richest man is not he who has the most, but he who needs the least.", "author": "Anonymous"}
+{"quote": "You can’t buy happiness but you can buy a bike and that’s pretty close.", "author": "Anonymous"}
+{"quote": "Don’t ask why someone keeps hurting you. Ask why you keep letting them.", "author": "Anonymous"}
+{"quote": "Never bend your head. Hold it high. Look the world straight in the eye.", "author": "Helen Keller"}
+{"quote": "When writing the story of your life don’t let anyone else hold the pen.", "author": "Anonymous"}
+{"quote": "Don’t let the fear of losing be greater than the excitement of winning.", "author": "Robert Kiyosaki"}
+{"quote": "An apology is the superglue of life. It can repair just about anything.", "author": "Lynn Johnston"}
+{"quote": "This one step, choosing a goal and sticking to it, changes everything.", "author": "Scott Reed"}
+{"quote": "Disgust and resolve are two of the great emotions that lead to change.", "author": "Jim Rohn"}
+{"quote": "There is a special place in hell for women who do not help other women.", "author": "Madeleine K. Albright"}
+{"quote": "The opinion which other people have of you is their problem, not yours.", "author": "Elisabeth Kubler-Ross"}
+{"quote": "Set your intention, and trust the universe to take care of the details.", "author": "Mike Fotheringham"}
+{"quote": "Silence is only frightening to people who are compulsively verbalizing.", "author": "William S. Burroughs"}
+{"quote": "The way is not difficult; only there must be no wanting or not wanting.", "author": "Chao-Chou"}
+{"quote": "Saying thank you is more than good manners. It is good spirituality.", "author": "Alfred Painter"}
+{"quote": "The smallest act of kindness is worth more than the grandest intention.", "author": "Jean Baptiste Massieu"}
+{"quote": "Kindness is the language which the deaf can hear and the blind can see.", "author": "Mark Twain"}
+{"quote": "The roots of all goodness lie in the soil of appreciation for goodness.", "author": "Dalai Lama"}
+{"quote": "‎You are afraid to die, and you’re afraid to live. What a way to exist.", "author": "Neale Donald Walsch"}
+{"quote": "But man is not made for defeat. A man can be destroyed but not defeated.", "author": "Ernest Hemingway"}
+{"quote": "Always remember that you are absolutely unique. Just like everyone else.", "author": "Margaret Mead"}
+{"quote": "Do not wait to strike till the iron is hot; But make it hot by striking.", "author": "William B. Sprague"}
+{"quote": "To be a champion; You have to believe in yourself when nobody else will.", "author": "Sugar Ray Robinson"}
+{"quote": "Your intellect may be confused, but your emotions will never lie to you.", "author": "Roger Ebert"}
+{"quote": "It’s not the years in your life that count. It’s the life in your years.", "author": "Abraham Lincoln"}
+{"quote": "The road to success and the road to failure are almost exactly the same.", "author": "Coin R. Davis"}
+{"quote": "Peace cannot be kept by force; it can only be achieved by understanding.", "author": "Albert Einstein"}
+{"quote": "Do not be embarrassed by your failures, learn from them and start again.", "author": "Richard Branson"}
+{"quote": "The question isn’t who is going to let me; it’s who is going to stop me.", "author": "Ayn Rand"}
+{"quote": "A contented mind is the greatest blessing a man can enjoy in this world.", "author": "Joseph Addison"}
+{"quote": "Rowing harder doesn’t help if the boat is headed in the wrong direction.", "author": "Kenichi Ohmae"}
+{"quote": "You need a room with no view so imagination can meet memory in the dark.", "author": "Annie Dillard"}
+{"quote": "What is this life if, full of care, we have not time to stand and stare.", "author": "W. H. Davies"}
+{"quote": "Don’t judge each day by the harvest you reap but by the seeds you plant.", "author": "Robert Louis Stevenson"}
+{"quote": "All I have seen teaches me to trust the creator for all I have not seen.", "author": "Ralph Waldo Emerson"}
+{"quote": "Slow down and everything you are chasing will come around and catch you.", "author": "John De Paola"}
+{"quote": "Never sacrifice who you are, just because someone has a problem with it.", "author": "Anonymous"}
+{"quote": "Self education is, I firmy believe, the only kind of education there is.", "author": "Isaac Asimov"}
+{"quote": "There is only one success: to be able to spend your life in your own way.", "author": "Christopher Morley"}
+{"quote": "The best way to gain self-confidence is; to do what you are afraid to do.", "author": "Anonymous"}
+{"quote": "Memories… let them fill your mind, warm your heart, and lead you through.", "author": "Anonymous"}
+{"quote": "Sometimes, you have to forget what you want to remember what you deserve.", "author": "Anonymous"}
+{"quote": "Success is never final. Failure is never fatal. It’s courage that counts.", "author": "John Wooden"}
+{"quote": "Common Sense is that which judges the things given to it by other senses.", "author": "Leonardo da Vinci"}
+{"quote": "Creativity flourishes when we have a sense of safety and self-acceptance.", "author": "Julia Cameron"}
+{"quote": "Creativity gives the possibility of some sort of achievement to everyone.", "author": "Edward de Bono"}
+{"quote": "To be mindfully engaged is the most natural, creative state we can be in.", "author": "Ellen Langler"}
+{"quote": "Those who dance are considered insane by those who cannot hear the music.", "author": "George Carlin"}
+{"quote": "I am living in a nightmare, from which from time to time I wake in sleep.", "author": "Ursula K. Le Guin"}
+{"quote": "A friend is someone who knows all about you and loves you just the same.", "author": "Elbert Hubbard"}
+{"quote": "I follow four dictates: face it, accept it, deal with it, then let it go.", "author": "Sheng-yen"}
+{"quote": "Nothing is softer or more flexible than water, yet nothing can resist it.", "author": "Lao Tzu"}
+{"quote": "Love cures people", "author": "both the ones who give it and the ones who receive it. – Karl A. Menninger"}
+{"quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.", "author": "Mahatma Gandhi"}
+{"quote": "If you don’t know me, then don’t judge me. No one said you had to love me.", "author": "Anonymous"}
+{"quote": "The one falls and gets up is so much stronger than the one who never fell.", "author": "Anonymous"}
+{"quote": "A man is happy so long as he chooses to be happy and nothing can stop him.", "author": "Alexander Solzhenitsyn"}
+{"quote": "One sure-fire way to stay creative: force yourself to learn something new.", "author": "Harvey Mackay"}
+{"quote": "There is no need to suffer silently and there is no shame in seeking help.", "author": "Catherine Zeta-Jones"}
+{"quote": "Don’t live down to expectations. Go out there and do something remarkable.", "author": "Wendy Wasserstein"}
+{"quote": "A mind stretched to a new idea never goes back to its original dimensions.", "author": "Oliver Wendall Holmes"}
+{"quote": "Let us live so that when we come to die even the undertaker will be sorry.", "author": "Mark Twain"}
+{"quote": "Nothing is so strong as gentleness. Nothing is so gentle as real strength.", "author": "Saint Francis de Sales"}
+{"quote": "Change your life today. Don’t gamble on the future, act now, without delay.", "author": "Simone de Beauvoir"}
+{"quote": "In three words I can sum up everything I’ve learned about life: it goes on.", "author": "Robert Frost"}
+{"quote": "We don’t have an eternity to realize our dreams, only the time we are here.", "author": "Susan Taylor"}
+{"quote": "A man can succeed at almost anything for which he has unlimited enthusiasm.", "author": "Charles Schwab"}
+{"quote": "A winner is that person who gets up one more time than he was knocked down.", "author": "Anonymous"}
+{"quote": "If people did not do silly things, nothing intelligent would ever get done.", "author": "Ludwig Wittgenstein"}
+{"quote": "The first step to being creative is to get rid of your own unwritten rules.", "author": "Mary M. Byers"}
+{"quote": "There is a vision for my life that is greater than my imagination can hold.", "author": "Oprah Winfrey"}
+{"quote": "Be curious always! For knowledge will not acquire you; you must acquire it.", "author": "Sudie Back"}
+{"quote": "Count your age by friends, not years. Count your life by smiles, not tears.", "author": "John Lennon"}
+{"quote": "Forgiveness is choosing to love. It is the first skill of self-giving love.", "author": "Mahatma Gandhi"}
+{"quote": "Poetry is a deal of joy and pain and wonder, with a dash of the dictionary.", "author": "Khalil Gibran"}
+{"quote": "In order to understand the world, one has to turn away from it on occasion.", "author": "Albert Camus"}
+{"quote": "The happiest person is the person who thinks the most interesting thoughts.", "author": "Timothy Dwight"}
+{"quote": "It often requires more courage to dare to do right than to fear to do wrong.", "author": "Abraham Lincoln"}
+{"quote": "We either make ourselves happy or miserable. The amount of work is the same.", "author": "Carlos Castaneda"}
+{"quote": "Change your life today. Don’t gamble on the future, act now, without delay.", "author": "Simone De Beauvoir"}
+{"quote": "What is necessary to change a person is to change his awareness of himself.", "author": "Abraham Maslow"}
+{"quote": "Life is pleasant. Death is peaceful. It’s the transition that’s troublesome.", "author": "Isaac Asimov"}
+{"quote": "No person who is enthusiastic about his work has anything to fear from life.", "author": "Samuel Goldwyn"}
+{"quote": "Walking with a friend in the dark is better than walking alone in the light.", "author": "Helen Keller"}
+{"quote": "A friend knows the song in my heart and sings it to me when my memory fails.", "author": "Donna Roberts"}
+{"quote": "You don’t get ulcers from what you eat, you get them from what’s eating you.", "author": "Vicki Baum"}
+{"quote": "Keep your face always toward the sunshine", "author": "and shadows will fall behind you. – Walt Whitman"}
+{"quote": "One day your life will flash before your eyes. Make sure it’s worth watching.", "author": "Anonymous"}
+{"quote": "The most difficult thing is the decision to act, the rest is merely tenacity.", "author": "Amelia Earhart"}
+{"quote": "I hear and I forget. I see and I remember. I do and I understand.", "author": "Confucius – Anonymous"}
+{"quote": "Advice is what we ask for when we already know the answer but wish we didn’t.", "author": "Erica Jong"}
+{"quote": "If you want to live a happy life, tie it to a goal, not to people or objects.", "author": "Albert Einstein"}
+{"quote": "Doing the best at this moment puts you in the best place for the next moment.", "author": "Oprah Winfrey"}
+{"quote": "Life will bring you pain all by itself. Your responsibility is to create joy.", "author": "Milton Erickson"}
+{"quote": "Most of us can, as we choose, make of this world either a palace or a prison.", "author": "Sir John Lubbock"}
+{"quote": "It is our choices…that show what we truly are, far more than our abilities.", "author": "J. K. Rowling"}
+{"quote": "Creativity is God’s gift to us. Using our creativity is our gift back to God.", "author": "Julia Cameron"}
+{"quote": "If I have a thousand ideas and only one turns out to be good, I am satisfied.", "author": "Alfred Nobel"}

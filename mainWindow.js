@@ -20,7 +20,11 @@ $(function() {
         let quoteHandler = fs.readFileSync('quoteHandler.json');
         quoteHandler = JSON.parse(quoteHandler);
       
-        $('#pQuote').text(quotes[quoteHandler.quoteIterator]); // show quote
+         // show quote
+        let quote = quotes[quoteHandler.quoteIterator];
+        quote = JSON.parse(quote);
+        $('#divQuote').html(quote.quote);
+        $('#divAuthor').html(quote.author);
 
         // update the date the last quote has been shown in JSON-file
         let today = new Date().getMinutes();
