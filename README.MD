@@ -1,0 +1,1 @@
+Quotes from https://sharpquotes.com/top-quotes-of-all-time/

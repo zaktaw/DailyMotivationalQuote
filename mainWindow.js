@@ -42,22 +42,17 @@ $(function() {
 
         // increment iterator if there is a new date and update iterator in JSON-file
         let today = new Date().getMinutes();
-        console.log(today);
+        
         if (quoteHandler.quoteShownOnDate != today) {
             quoteHandler.quoteIterator += 1;
 
-            console.log("i: " + quoteHandler.quoteIterator);
-            console.log("l: " + quotes.length);
-
-            console.log(quotes);
-
-            // set iterator to 0
+            // set iterator to 0 and shuffle quotes when last quote has been shown
             if (quoteHandler.quoteIterator == quotes.length) {
-                console.log("hei");
                 quoteHandler.quoteIterator = 0;
                 shuffleQuotes();
             }
 
+            // write to file
             quoteHandler = JSON.stringify(quoteHandler);
             fs.writeFileSync('quoteHandler.json', quoteHandler);
         }
