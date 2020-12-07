@@ -1,4 +1,5 @@
 const fs = require("fs"); 
+const utility = require("./utility");
 
 $(function() {
 
@@ -9,6 +10,8 @@ $(function() {
     dailyQuoteShown(); // check if daily quote has been shown
 
     showQuote(); // show daily quote
+
+    changeBgColor(); // change background-color of quote-box
 
     /**
      * Shows a random quote.
@@ -85,5 +88,15 @@ $(function() {
             [a[i], a[j]] = [a[j], a[i]];
         }
         return a;
+    }
+
+    /**
+     * Changes the background color of the quote-box to a random color from an array.
+     */
+    function changeBgColor() {
+        let colors = ['rgb(252, 177, 3)', 'rgb(252, 57, 3)', 'rgb(73, 179, 59)', 'rgb(58, 158, 141)', 
+        'rgb(49, 66, 143)', 'rgb(89, 40, 12)'];
+        let color = colors[utility.genRandNum(0, colors.length-1)];
+        $(".quote-box").css({"background-color": color});
     }
 });
