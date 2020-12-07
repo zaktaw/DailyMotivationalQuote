@@ -31,4 +31,17 @@ app.on('ready', () => {
     mainWindow.on('closed', () => {
         app.quit();
     });
+
+    /*
+      // Build menu from template
+      const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
+
+      // Insert menu
+      Menu.setApplicationMenu(mainMenu);
+      */
 });
+
+// create menu template
+const mainMenuTemplate = [
+
+]
