@@ -45,8 +45,8 @@ app.on('ready', () => {
 function createAboutWindow(){
     // create window
     aboutWindow = new BrowserWindow({
-        width: 300,
-        height: 200,
+        width: 400,
+        height: 350,
         title: 'About',
         webPreferences:{
             nodeIntegration:true

@@ -30,7 +30,7 @@ $(function() {
         $('#author').html(quote.author);
 
         // update the date the last quote has been shown in JSON-file
-        let today = new Date().getMinutes();
+        let today = new Date().getDate();
         quoteHandler.quoteShownOnDate = today;
         quoteHandler = JSON.stringify(quoteHandler);
         fs.writeFileSync('quoteHandler.json', quoteHandler);
@@ -48,7 +48,7 @@ $(function() {
         quoteHandler = JSON.parse(quoteHandler);
 
         // increment iterator if there is a new date and update iterator in JSON-file
-        let today = new Date().getMinutes();
+        let today = new Date().getDate();
         
         if (quoteHandler.quoteShownOnDate != today) {
             quoteHandler.quoteIterator += 1;
