@@ -5,9 +5,10 @@ const path = require('path');
 const {app, BrowserWindow, Menu, ipcMain} = electron;
 
 // SET ENV (to production: this will remove dev tools)
-//process.env.NODE_ENV = 'production';
+process.env.NODE_ENV = 'production';
 
 let mainWindow;
+let aboutWindow;
 
 // Listen for app to be ready
 app.on('ready', () => {
@@ -16,7 +17,7 @@ app.on('ready', () => {
         width: 550,
         height: 400,
         webPreferences:{
-            nodeIntegration:true
+            nodeIntegration: true
         }
     });
 
@@ -32,16 +33,56 @@ app.on('ready', () => {
         app.quit();
     });
 
-    /*
-      // Build menu from template
-      const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
+    
+    // Build menu from template
+    const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
 
-      // Insert menu
-      Menu.setApplicationMenu(mainMenu);
-      */
+    // Insert menu
+    Menu.setApplicationMenu(mainMenu);
 });
+
+// create about window
+function createAboutWindow(){
+    // create window
+    aboutWindow = new BrowserWindow({
+        width: 300,
+        height: 200,
+        title: 'About',
+        webPreferences:{
+            nodeIntegration:true
+        }
+    });
+
+
+     // Load html into window
+     aboutWindow.loadURL(url.format({
+        pathname: path.join(__dirname, 'aboutWindow.html'),
+        protocol: 'file:',
+        slashes: true
+    }));
+
+    // Garbage collection handle
+    aboutWindow.on('close', () => {
+        aboutWindow = null;
+    });
+
+    aboutWindow.removeMenu();
+}
 
 // create menu template
 const mainMenuTemplate = [
-
+    {
+        label: 'Menu',
+        submenu: [
+            {
+                label: 'About Daily Motivational Quote',
+                click(){createAboutWindow()}
+            },
+            {
+                label: 'Exit',
+                accelerator: process.platform == 'darwin' ? 'Command+Q' : 'Ctrl+Q', // darwin = mac,
+                click(){app.quit()}
+            }
+        ]
+    }
 ]
