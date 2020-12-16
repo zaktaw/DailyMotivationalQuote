@@ -1,10 +1,14 @@
 const fs = require("fs"); 
 const utility = require("./utility");
+const path = require('path');
+
+let quotesDirectory = './resources/quotes.txt'
+let quotesHandlerDirectory = './resources/quoteHandler.json';
 
 $(function() {
 
     // get quotes from text file
-    let quotes = fs.readFileSync('quotes.txt', 'utf8');
+    let quotes = fs.readFileSync(quotesDirectory, 'utf8');
     quotes = quotes.split("\n");
 
     dailyQuoteShown(); // check if daily quote has been shown
@@ -20,7 +24,7 @@ $(function() {
      */
     function showQuote() {
         // get quoteHandler JSON
-        let quoteHandler = fs.readFileSync('quoteHandler.json');
+        let quoteHandler = fs.readFileSync(quotesHandlerDirectory);
         quoteHandler = JSON.parse(quoteHandler);
       
          // show quote
@@ -33,7 +37,7 @@ $(function() {
         let today = new Date().getDate();
         quoteHandler.quoteShownOnDate = today;
         quoteHandler = JSON.stringify(quoteHandler);
-        fs.writeFileSync('quoteHandler.json', quoteHandler);
+        fs.writeFileSync(quotesHandlerDirectory, quoteHandler);
     }
 
     /**
@@ -44,7 +48,7 @@ $(function() {
      */
     function dailyQuoteShown() {
          // get quoteHandler JSON
-        let quoteHandler = fs.readFileSync('quoteHandler.json');
+        let quoteHandler = fs.readFileSync(quotesHandlerDirectory);
         quoteHandler = JSON.parse(quoteHandler);
 
         // increment iterator if there is a new date and update iterator in JSON-file
@@ -61,7 +65,7 @@ $(function() {
 
             // write to file
             quoteHandler = JSON.stringify(quoteHandler);
-            fs.writeFileSync('quoteHandler.json', quoteHandler);
+            fs.writeFileSync(quotesHandlerDirectory, quoteHandler);
         }
     }
 
@@ -75,7 +79,7 @@ $(function() {
             quotesString += quotes[i];
             if (i < quotes.length-1) quotesString += "\n";
         }
-        fs.writeFileSync('quotes.txt', quotesString, 'utf8');
+        fs.writeFileSync(quotesDirectory, quotesString, 'utf8');
     }
 
     /**

@@ -33,7 +33,6 @@ app.on('ready', () => {
         app.quit();
     });
 
-    
     // Build menu from template
     const mainMenu = Menu.buildFromTemplate(mainMenuTemplate);
 

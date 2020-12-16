@@ -6,7 +6,16 @@ Daily motivational Quote is a desktop application made with Electron.js. The app
 
 ## Installation
 
+Requires npm and Node.js.
 
+1. Clone repository from https://github.com/zaktaw/DailyMotivationalQuote
+2. From command line, navigate into the cloned folder
+3. npm init
+4. npm start
+5.  * For Windows: npm run package-win
+    * For Mac: npm run package-mac
+    * For linux: npm run package-linux
+6. Run dailymotivationalquote.exe in realease-builds/dailymotivationalquote
 
 ## Sources
 
