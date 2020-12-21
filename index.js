@@ -16,6 +16,7 @@ app.on('ready', () => {
     mainWindow = new BrowserWindow({
         width: 550,
         height: 400,
+        title: 'Daily motivational quote',
         webPreferences:{
             nodeIntegration: true
         }
